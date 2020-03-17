@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="title" content="Namespace BO4E.BO
    ">
-    <meta name="generator" content="docfx 2.48.0.0">
+    <meta name="generator" content="docfx 2.50.0.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -89,6 +89,22 @@
       <h4><a class="xref" href="BO4E.BO.BusinessObject.html">BusinessObject</a></h4>
       <section><p>General abstract class for Business Objects for Energy (BO4E)</p>
 </section>
+      <h4><a class="xref" href="BO4E.BO.EncryptedObject.html">EncryptedObject</a></h4>
+      <section><p>An EncryptedObject does not contain any plain text but only information necessary to
+decrypt and authenticate the original data. The decrypted cipher text contains the
+original objects JSON serialization. The abstract class EncryptedObject contains
+mandatory attributes for all encrypted object types. Please see <a class="xref" href="BO4E.BO.EncryptedObjectAEAD.html">EncryptedObjectAEAD</a>,
+<a class="xref" href="BO4E.BO.EncryptedObjectPublicKeyBox.html">EncryptedObjectPublicKeyBox</a>, <a class="xref" href="BO4E.BO.EncryptedObjectPKCS7.html">EncryptedObjectPKCS7</a>.</p>
+</section>
+      <h4><a class="xref" href="BO4E.BO.EncryptedObjectAEAD.html">EncryptedObjectAEAD</a></h4>
+      <section><p>Encrypted Object using libsodium AEAD algorithm with a shared secret/private key</p>
+</section>
+      <h4><a class="xref" href="BO4E.BO.EncryptedObjectPKCS7.html">EncryptedObjectPKCS7</a></h4>
+      <section><p>Bouncy Castle CMS encrypted object</p>
+</section>
+      <h4><a class="xref" href="BO4E.BO.EncryptedObjectPublicKeyBox.html">EncryptedObjectPublicKeyBox</a></h4>
+      <section><p>Encrypted Object using the Public Key Box Algorithm of libsodium</p>
+</section>
       <h4><a class="xref" href="BO4E.BO.Energiemenge.html">Energiemenge</a></h4>
       <section><p>Abbildung von Mengen, die Lokationen zugeordnet sind.</p>
 </section>
@@ -99,6 +115,8 @@ Unternehmen, als auch Privatpersonen können Geschäftspartner sein.</p>
       <h4><a class="xref" href="BO4E.BO.Kosten.html">Kosten</a></h4>
       <section><p>Dieses BO wird zur Übertagung von hierarchischen Kostenstrukturen verwendet. Die Kosten werden dabei in Kostenblöcke und diese wiederum in Kostenpositionen strukturiert.</p>
 </section>
+      <h4><a class="xref" href="BO4E.BO.LogObject.html">LogObject</a></h4>
+      <section></section>
       <h4><a class="xref" href="BO4E.BO.Marktlokation.html">Marktlokation</a></h4>
       <section><p>Objekt zur Aufnahme der Informationen zu einer Marktlokation</p>
 </section>
