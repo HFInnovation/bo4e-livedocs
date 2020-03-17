@@ -242,6 +242,12 @@ references:
   isSpec: "True"
   fullName: BO4E.BO.BusinessObject.BusinessObject
   nameWithType: BusinessObject.BusinessObject
+- uid: BO4E.BO.BusinessObject.boTyp
+  name: boTyp
+  href: api/BO4E.BO.BusinessObject.html#BO4E_BO_BusinessObject_boTyp
+  commentId: F:BO4E.BO.BusinessObject.boTyp
+  fullName: BO4E.BO.BusinessObject.boTyp
+  nameWithType: BusinessObject.boTyp
 - uid: BO4E.BO.BusinessObject.DeserializationFixes(StreamingContext)
   name: DeserializationFixes(StreamingContext)
   href: api/BO4E.BO.BusinessObject.html#BO4E_BO_BusinessObject_DeserializationFixes_StreamingContext_
@@ -902,6 +908,12 @@ references:
   commentId: F:BO4E.BO.Marktlokation.marktrollen
   fullName: BO4E.BO.Marktlokation.marktrollen
   nameWithType: Marktlokation.marktrollen
+- uid: BO4E.BO.Marktlokation.messlokationen
+  name: messlokationen
+  href: api/BO4E.BO.Marktlokation.html#BO4E_BO_Marktlokation_messlokationen
+  commentId: F:BO4E.BO.Marktlokation.messlokationen
+  fullName: BO4E.BO.Marktlokation.messlokationen
+  nameWithType: Marktlokation.messlokationen
 - uid: BO4E.BO.Marktlokation.netzbetreibercodenr
   name: netzbetreibercodenr
   href: api/BO4E.BO.Marktlokation.html#BO4E_BO_Marktlokation_netzbetreibercodenr
@@ -999,6 +1011,12 @@ references:
   commentId: T:BO4E.BO.Marktteilnehmer
   fullName: BO4E.BO.Marktteilnehmer
   nameWithType: Marktteilnehmer
+- uid: BO4E.BO.Marktteilnehmer.ansprechpartner
+  name: ansprechpartner
+  href: api/BO4E.BO.Marktteilnehmer.html#BO4E_BO_Marktteilnehmer_ansprechpartner
+  commentId: F:BO4E.BO.Marktteilnehmer.ansprechpartner
+  fullName: BO4E.BO.Marktteilnehmer.ansprechpartner
+  nameWithType: Marktteilnehmer.ansprechpartner
 - uid: BO4E.BO.Marktteilnehmer.makoadresse
   name: makoadresse
   href: api/BO4E.BO.Marktteilnehmer.html#BO4E_BO_Marktteilnehmer_makoadresse
@@ -1489,12 +1507,18 @@ references:
   commentId: F:BO4E.BO.Region.bezeichnung
   fullName: BO4E.BO.Region.bezeichnung
   nameWithType: Region.bezeichnung
-- uid: BO4E.BO.Region.regionkriterien
-  name: regionkriterien
-  href: api/BO4E.BO.Region.html#BO4E_BO_Region_regionkriterien
-  commentId: F:BO4E.BO.Region.regionkriterien
-  fullName: BO4E.BO.Region.regionkriterien
-  nameWithType: Region.regionkriterien
+- uid: BO4E.BO.Region.negativListe
+  name: negativListe
+  href: api/BO4E.BO.Region.html#BO4E_BO_Region_negativListe
+  commentId: F:BO4E.BO.Region.negativListe
+  fullName: BO4E.BO.Region.negativListe
+  nameWithType: Region.negativListe
+- uid: BO4E.BO.Region.positivListe
+  name: positivListe
+  href: api/BO4E.BO.Region.html#BO4E_BO_Region_positivListe
+  commentId: F:BO4E.BO.Region.positivListe
+  fullName: BO4E.BO.Region.positivListe
+  nameWithType: Region.positivListe
 - uid: BO4E.BO.Vertrag
   name: Vertrag
   href: api/BO4E.BO.Vertrag.html
@@ -4090,6 +4114,12 @@ references:
   commentId: F:BO4E.COM.Verbrauch.startdatum
   fullName: BO4E.COM.Verbrauch.startdatum
   nameWithType: Verbrauch.startdatum
+- uid: BO4E.COM.Verbrauch.type
+  name: type
+  href: api/BO4E.COM.Verbrauch.html#BO4E_COM_Verbrauch_type
+  commentId: F:BO4E.COM.Verbrauch.type
+  fullName: BO4E.COM.Verbrauch.type
+  nameWithType: Verbrauch.type
 - uid: BO4E.COM.Verbrauch.wert
   name: wert
   href: api/BO4E.COM.Verbrauch.html#BO4E_COM_Verbrauch_wert
@@ -4336,12 +4366,12 @@ references:
   commentId: F:BO4E.COM.Zaehlwerk.verbrauchsart
   fullName: BO4E.COM.Zaehlwerk.verbrauchsart
   nameWithType: Zaehlwerk.verbrauchsart
-- uid: BO4E.COM.Zaehlwerk.Verwendungszwecke
-  name: Verwendungszwecke
-  href: api/BO4E.COM.Zaehlwerk.html#BO4E_COM_Zaehlwerk_Verwendungszwecke
-  commentId: F:BO4E.COM.Zaehlwerk.Verwendungszwecke
-  fullName: BO4E.COM.Zaehlwerk.Verwendungszwecke
-  nameWithType: Zaehlwerk.Verwendungszwecke
+- uid: BO4E.COM.Zaehlwerk.verwendungszwecke
+  name: verwendungszwecke
+  href: api/BO4E.COM.Zaehlwerk.html#BO4E_COM_Zaehlwerk_verwendungszwecke
+  commentId: F:BO4E.COM.Zaehlwerk.verwendungszwecke
+  fullName: BO4E.COM.Zaehlwerk.verwendungszwecke
+  nameWithType: Zaehlwerk.verwendungszwecke
 - uid: BO4E.COM.Zaehlwerk.vorkommastelle
   name: vorkommastelle
   href: api/BO4E.COM.Zaehlwerk.html#BO4E_COM_Zaehlwerk_vorkommastelle
@@ -4590,6 +4620,12 @@ references:
   commentId: T:BO4E.ENUM.Anrede
   fullName: BO4E.ENUM.Anrede
   nameWithType: Anrede
+- uid: BO4E.ENUM.Anrede.DR
+  name: DR
+  href: api/BO4E.ENUM.Anrede.html#BO4E_ENUM_Anrede_DR
+  commentId: F:BO4E.ENUM.Anrede.DR
+  fullName: BO4E.ENUM.Anrede.DR
+  nameWithType: Anrede.DR
 - uid: BO4E.ENUM.Anrede.EHELEUTE
   name: EHELEUTE
   href: api/BO4E.ENUM.Anrede.html#BO4E_ENUM_Anrede_EHELEUTE
@@ -7056,18 +7092,24 @@ references:
   commentId: T:BO4E.ENUM.Geraetemerkmal
   fullName: BO4E.ENUM.Geraetemerkmal
   nameWithType: Geraetemerkmal
+- uid: BO4E.ENUM.Geraetemerkmal.DSL_KOM
+  name: DSL_KOM
+  href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_DSL_KOM
+  commentId: F:BO4E.ENUM.Geraetemerkmal.DSL_KOM
+  fullName: BO4E.ENUM.Geraetemerkmal.DSL_KOM
+  nameWithType: Geraetemerkmal.DSL_KOM
 - uid: BO4E.ENUM.Geraetemerkmal.EINTARIF
   name: EINTARIF
   href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_EINTARIF
   commentId: F:BO4E.ENUM.Geraetemerkmal.EINTARIF
   fullName: BO4E.ENUM.Geraetemerkmal.EINTARIF
   nameWithType: Geraetemerkmal.EINTARIF
-- uid: BO4E.ENUM.Geraetemerkmal.Ethernet_KOM
-  name: Ethernet_KOM
-  href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_Ethernet_KOM
-  commentId: F:BO4E.ENUM.Geraetemerkmal.Ethernet_KOM
-  fullName: BO4E.ENUM.Geraetemerkmal.Ethernet_KOM
-  nameWithType: Geraetemerkmal.Ethernet_KOM
+- uid: BO4E.ENUM.Geraetemerkmal.ETHERNET_KOM
+  name: ETHERNET_KOM
+  href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_ETHERNET_KOM
+  commentId: F:BO4E.ENUM.Geraetemerkmal.ETHERNET_KOM
+  fullName: BO4E.ENUM.Geraetemerkmal.ETHERNET_KOM
+  nameWithType: Geraetemerkmal.ETHERNET_KOM
 - uid: BO4E.ENUM.Geraetemerkmal.GAS_G10
   name: GAS_G10
   href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_GAS_G10
@@ -7176,6 +7218,18 @@ references:
   commentId: F:BO4E.ENUM.Geraetemerkmal.IMPULSGEBER_G4_G100
   fullName: BO4E.ENUM.Geraetemerkmal.IMPULSGEBER_G4_G100
   nameWithType: Geraetemerkmal.IMPULSGEBER_G4_G100
+- uid: BO4E.ENUM.Geraetemerkmal.KOMPAKT_MU
+  name: KOMPAKT_MU
+  href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_KOMPAKT_MU
+  commentId: F:BO4E.ENUM.Geraetemerkmal.KOMPAKT_MU
+  fullName: BO4E.ENUM.Geraetemerkmal.KOMPAKT_MU
+  nameWithType: Geraetemerkmal.KOMPAKT_MU
+- uid: BO4E.ENUM.Geraetemerkmal.LTE_KOM
+  name: LTE_KOM
+  href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_LTE_KOM
+  commentId: F:BO4E.ENUM.Geraetemerkmal.LTE_KOM
+  fullName: BO4E.ENUM.Geraetemerkmal.LTE_KOM
+  nameWithType: Geraetemerkmal.LTE_KOM
 - uid: BO4E.ENUM.Geraetemerkmal.MEHRTARIF
   name: MEHRTARIF
   href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_MEHRTARIF
@@ -7236,12 +7290,30 @@ references:
   commentId: F:BO4E.ENUM.Geraetemerkmal.RUNDSTEUEREMPFAENGER
   fullName: BO4E.ENUM.Geraetemerkmal.RUNDSTEUEREMPFAENGER
   nameWithType: Geraetemerkmal.RUNDSTEUEREMPFAENGER
+- uid: BO4E.ENUM.Geraetemerkmal.SYSTEM_MU
+  name: SYSTEM_MU
+  href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_SYSTEM_MU
+  commentId: F:BO4E.ENUM.Geraetemerkmal.SYSTEM_MU
+  fullName: BO4E.ENUM.Geraetemerkmal.SYSTEM_MU
+  nameWithType: Geraetemerkmal.SYSTEM_MU
 - uid: BO4E.ENUM.Geraetemerkmal.TARIFSCHALTGERAET
   name: TARIFSCHALTGERAET
   href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_TARIFSCHALTGERAET
   commentId: F:BO4E.ENUM.Geraetemerkmal.TARIFSCHALTGERAET
   fullName: BO4E.ENUM.Geraetemerkmal.TARIFSCHALTGERAET
   nameWithType: Geraetemerkmal.TARIFSCHALTGERAET
+- uid: BO4E.ENUM.Geraetemerkmal.TEMPERATUR_MU
+  name: TEMPERATUR_MU
+  href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_TEMPERATUR_MU
+  commentId: F:BO4E.ENUM.Geraetemerkmal.TEMPERATUR_MU
+  fullName: BO4E.ENUM.Geraetemerkmal.TEMPERATUR_MU
+  nameWithType: Geraetemerkmal.TEMPERATUR_MU
+- uid: BO4E.ENUM.Geraetemerkmal.ZUSTANDS_MU
+  name: ZUSTANDS_MU
+  href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_ZUSTANDS_MU
+  commentId: F:BO4E.ENUM.Geraetemerkmal.ZUSTANDS_MU
+  fullName: BO4E.ENUM.Geraetemerkmal.ZUSTANDS_MU
+  nameWithType: Geraetemerkmal.ZUSTANDS_MU
 - uid: BO4E.ENUM.Geraetemerkmal.ZWEITARIF
   name: ZWEITARIF
   href: api/BO4E.ENUM.Geraetemerkmal.html#BO4E_ENUM_Geraetemerkmal_ZWEITARIF
@@ -7260,6 +7332,12 @@ references:
   commentId: F:BO4E.ENUM.Geraetetyp.BALGENGASZAEHLER
   fullName: BO4E.ENUM.Geraetetyp.BALGENGASZAEHLER
   nameWithType: Geraetetyp.BALGENGASZAEHLER
+- uid: BO4E.ENUM.Geraetetyp.BLOCKSTROMWANDLER
+  name: BLOCKSTROMWANDLER
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_BLOCKSTROMWANDLER
+  commentId: F:BO4E.ENUM.Geraetetyp.BLOCKSTROMWANDLER
+  fullName: BO4E.ENUM.Geraetetyp.BLOCKSTROMWANDLER
+  nameWithType: Geraetetyp.BLOCKSTROMWANDLER
 - uid: BO4E.ENUM.Geraetetyp.DATENLOGGER
   name: DATENLOGGER
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_DATENLOGGER
@@ -7290,6 +7368,12 @@ references:
   commentId: F:BO4E.ENUM.Geraetetyp.ELEKTRONISCHER_HAUSHALTSZAEHLER
   fullName: BO4E.ENUM.Geraetetyp.ELEKTRONISCHER_HAUSHALTSZAEHLER
   nameWithType: Geraetetyp.ELEKTRONISCHER_HAUSHALTSZAEHLER
+- uid: BO4E.ENUM.Geraetetyp.HOECHSTBELASTUNGS_ANZEIGER
+  name: HOECHSTBELASTUNGS_ANZEIGER
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_HOECHSTBELASTUNGS_ANZEIGER
+  commentId: F:BO4E.ENUM.Geraetetyp.HOECHSTBELASTUNGS_ANZEIGER
+  fullName: BO4E.ENUM.Geraetetyp.HOECHSTBELASTUNGS_ANZEIGER
+  nameWithType: Geraetetyp.HOECHSTBELASTUNGS_ANZEIGER
 - uid: BO4E.ENUM.Geraetetyp.IMPULSGEBER
   name: IMPULSGEBER
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_IMPULSGEBER
@@ -7302,6 +7386,18 @@ references:
   commentId: F:BO4E.ENUM.Geraetetyp.IMS_ZAEHLER
   fullName: BO4E.ENUM.Geraetetyp.IMS_ZAEHLER
   nameWithType: Geraetetyp.IMS_ZAEHLER
+- uid: BO4E.ENUM.Geraetetyp.KOMBIMESSWANDLER
+  name: KOMBIMESSWANDLER
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_KOMBIMESSWANDLER
+  commentId: F:BO4E.ENUM.Geraetetyp.KOMBIMESSWANDLER
+  fullName: BO4E.ENUM.Geraetetyp.KOMBIMESSWANDLER
+  nameWithType: Geraetetyp.KOMBIMESSWANDLER
+- uid: BO4E.ENUM.Geraetetyp.KOMBIMESSWANDLER_IMS_MME
+  name: KOMBIMESSWANDLER_IMS_MME
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_KOMBIMESSWANDLER_IMS_MME
+  commentId: F:BO4E.ENUM.Geraetetyp.KOMBIMESSWANDLER_IMS_MME
+  fullName: BO4E.ENUM.Geraetetyp.KOMBIMESSWANDLER_IMS_MME
+  nameWithType: Geraetetyp.KOMBIMESSWANDLER_IMS_MME
 - uid: BO4E.ENUM.Geraetetyp.KOMMUNIKATIONSANSCHLUSS
   name: KOMMUNIKATIONSANSCHLUSS
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_KOMMUNIKATIONSANSCHLUSS
@@ -7320,6 +7416,12 @@ references:
   commentId: F:BO4E.ENUM.Geraetetyp.MENGENUMWERTER
   fullName: BO4E.ENUM.Geraetetyp.MENGENUMWERTER
   nameWithType: Geraetetyp.MENGENUMWERTER
+- uid: BO4E.ENUM.Geraetetyp.MESSWANDLERSATZ_IMS_MME
+  name: MESSWANDLERSATZ_IMS_MME
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_MESSWANDLERSATZ_IMS_MME
+  commentId: F:BO4E.ENUM.Geraetetyp.MESSWANDLERSATZ_IMS_MME
+  fullName: BO4E.ENUM.Geraetetyp.MESSWANDLERSATZ_IMS_MME
+  nameWithType: Geraetetyp.MESSWANDLERSATZ_IMS_MME
 - uid: BO4E.ENUM.Geraetetyp.MODEM
   name: MODEM
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_MODEM
@@ -7338,6 +7440,12 @@ references:
   commentId: F:BO4E.ENUM.Geraetetyp.MULTIPLEXANLAGE
   fullName: BO4E.ENUM.Geraetetyp.MULTIPLEXANLAGE
   nameWithType: Geraetetyp.MULTIPLEXANLAGE
+- uid: BO4E.ENUM.Geraetetyp.OPTIONALE_ZUS_ZAEHLEINRICHTUNG
+  name: OPTIONALE_ZUS_ZAEHLEINRICHTUNG
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_OPTIONALE_ZUS_ZAEHLEINRICHTUNG
+  commentId: F:BO4E.ENUM.Geraetetyp.OPTIONALE_ZUS_ZAEHLEINRICHTUNG
+  fullName: BO4E.ENUM.Geraetetyp.OPTIONALE_ZUS_ZAEHLEINRICHTUNG
+  nameWithType: Geraetetyp.OPTIONALE_ZUS_ZAEHLEINRICHTUNG
 - uid: BO4E.ENUM.Geraetetyp.PAUSCHALANLAGE
   name: PAUSCHALANLAGE
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_PAUSCHALANLAGE
@@ -7350,12 +7458,30 @@ references:
   commentId: F:BO4E.ENUM.Geraetetyp.RLM_ZAEHLER
   fullName: BO4E.ENUM.Geraetetyp.RLM_ZAEHLER
   nameWithType: Geraetetyp.RLM_ZAEHLER
+- uid: BO4E.ENUM.Geraetetyp.RUNDSTEUEREMPFAENGER
+  name: RUNDSTEUEREMPFAENGER
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_RUNDSTEUEREMPFAENGER
+  commentId: F:BO4E.ENUM.Geraetetyp.RUNDSTEUEREMPFAENGER
+  fullName: BO4E.ENUM.Geraetetyp.RUNDSTEUEREMPFAENGER
+  nameWithType: Geraetetyp.RUNDSTEUEREMPFAENGER
+- uid: BO4E.ENUM.Geraetetyp.RUNDSTEUEREMPFAENGER_IMS_MME
+  name: RUNDSTEUEREMPFAENGER_IMS_MME
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_RUNDSTEUEREMPFAENGER_IMS_MME
+  commentId: F:BO4E.ENUM.Geraetetyp.RUNDSTEUEREMPFAENGER_IMS_MME
+  fullName: BO4E.ENUM.Geraetetyp.RUNDSTEUEREMPFAENGER_IMS_MME
+  nameWithType: Geraetetyp.RUNDSTEUEREMPFAENGER_IMS_MME
 - uid: BO4E.ENUM.Geraetetyp.SMARTMETERGATEWAY
   name: SMARTMETERGATEWAY
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_SMARTMETERGATEWAY
   commentId: F:BO4E.ENUM.Geraetetyp.SMARTMETERGATEWAY
   fullName: BO4E.ENUM.Geraetetyp.SMARTMETERGATEWAY
   nameWithType: Geraetetyp.SMARTMETERGATEWAY
+- uid: BO4E.ENUM.Geraetetyp.SONSTIGES_GERAET
+  name: SONSTIGES_GERAET
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_SONSTIGES_GERAET
+  commentId: F:BO4E.ENUM.Geraetetyp.SONSTIGES_GERAET
+  fullName: BO4E.ENUM.Geraetetyp.SONSTIGES_GERAET
+  nameWithType: Geraetetyp.SONSTIGES_GERAET
 - uid: BO4E.ENUM.Geraetetyp.SPANNUNGSWANDLER
   name: SPANNUNGSWANDLER
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_SPANNUNGSWANDLER
@@ -7386,6 +7512,18 @@ references:
   commentId: F:BO4E.ENUM.Geraetetyp.SUMMATIONSGERAET
   fullName: BO4E.ENUM.Geraetetyp.SUMMATIONSGERAET
   nameWithType: Geraetetyp.SUMMATIONSGERAET
+- uid: BO4E.ENUM.Geraetetyp.TARIFSCHALTGERAET
+  name: TARIFSCHALTGERAET
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_TARIFSCHALTGERAET
+  commentId: F:BO4E.ENUM.Geraetetyp.TARIFSCHALTGERAET
+  fullName: BO4E.ENUM.Geraetetyp.TARIFSCHALTGERAET
+  nameWithType: Geraetetyp.TARIFSCHALTGERAET
+- uid: BO4E.ENUM.Geraetetyp.TARIFSCHALTGERAET_IMS_MME
+  name: TARIFSCHALTGERAET_IMS_MME
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_TARIFSCHALTGERAET_IMS_MME
+  commentId: F:BO4E.ENUM.Geraetetyp.TARIFSCHALTGERAET_IMS_MME
+  fullName: BO4E.ENUM.Geraetetyp.TARIFSCHALTGERAET_IMS_MME
+  nameWithType: Geraetetyp.TARIFSCHALTGERAET_IMS_MME
 - uid: BO4E.ENUM.Geraetetyp.TECHNISCHESTEUEREINRICHTUNG
   name: TECHNISCHESTEUEREINRICHTUNG
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_TECHNISCHESTEUEREINRICHTUNG
@@ -7398,6 +7536,12 @@ references:
   commentId: F:BO4E.ENUM.Geraetetyp.TELEKOMMUNIKATIONSEINRICHTUNG
   fullName: BO4E.ENUM.Geraetetyp.TELEKOMMUNIKATIONSEINRICHTUNG
   nameWithType: Geraetetyp.TELEKOMMUNIKATIONSEINRICHTUNG
+- uid: BO4E.ENUM.Geraetetyp.TEMPERATUR_KOMPENSATION
+  name: TEMPERATUR_KOMPENSATION
+  href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_TEMPERATUR_KOMPENSATION
+  commentId: F:BO4E.ENUM.Geraetetyp.TEMPERATUR_KOMPENSATION
+  fullName: BO4E.ENUM.Geraetetyp.TEMPERATUR_KOMPENSATION
+  nameWithType: Geraetetyp.TEMPERATUR_KOMPENSATION
 - uid: BO4E.ENUM.Geraetetyp.TURBINENRADGASZAEHLER
   name: TURBINENRADGASZAEHLER
   href: api/BO4E.ENUM.Geraetetyp.html#BO4E_ENUM_Geraetetyp_TURBINENRADGASZAEHLER
@@ -7488,24 +7632,6 @@ references:
   commentId: F:BO4E.ENUM.Gueltigkeitstyp.NICHT_IN
   fullName: BO4E.ENUM.Gueltigkeitstyp.NICHT_IN
   nameWithType: Gueltigkeitstyp.NICHT_IN
-- uid: BO4E.ENUM.JaNein
-  name: JaNein
-  href: api/BO4E.ENUM.JaNein.html
-  commentId: T:BO4E.ENUM.JaNein
-  fullName: BO4E.ENUM.JaNein
-  nameWithType: JaNein
-- uid: BO4E.ENUM.JaNein.JA
-  name: JA
-  href: api/BO4E.ENUM.JaNein.html#BO4E_ENUM_JaNein_JA
-  commentId: F:BO4E.ENUM.JaNein.JA
-  fullName: BO4E.ENUM.JaNein.JA
-  nameWithType: JaNein.JA
-- uid: BO4E.ENUM.JaNein.NEIN
-  name: NEIN
-  href: api/BO4E.ENUM.JaNein.html#BO4E_ENUM_JaNein_NEIN
-  commentId: F:BO4E.ENUM.JaNein.NEIN
-  fullName: BO4E.ENUM.JaNein.NEIN
-  nameWithType: JaNein.NEIN
 - uid: BO4E.ENUM.Kalkulationsmethode
   name: Kalkulationsmethode
   href: api/BO4E.ENUM.Kalkulationsmethode.html
@@ -11946,6 +12072,30 @@ references:
   commentId: F:BO4E.ENUM.Verbrauchsart.WS
   fullName: BO4E.ENUM.Verbrauchsart.WS
   nameWithType: Verbrauchsart.WS
+- uid: BO4E.ENUM.Verbrauchsmengetyp
+  name: Verbrauchsmengetyp
+  href: api/BO4E.ENUM.Verbrauchsmengetyp.html
+  commentId: T:BO4E.ENUM.Verbrauchsmengetyp
+  fullName: BO4E.ENUM.Verbrauchsmengetyp
+  nameWithType: Verbrauchsmengetyp
+- uid: BO4E.ENUM.Verbrauchsmengetyp.ARBEITLEISTUNGTAGESPARAMETERABHMALO
+  name: ARBEITLEISTUNGTAGESPARAMETERABHMALO
+  href: api/BO4E.ENUM.Verbrauchsmengetyp.html#BO4E_ENUM_Verbrauchsmengetyp_ARBEITLEISTUNGTAGESPARAMETERABHMALO
+  commentId: F:BO4E.ENUM.Verbrauchsmengetyp.ARBEITLEISTUNGTAGESPARAMETERABHMALO
+  fullName: BO4E.ENUM.Verbrauchsmengetyp.ARBEITLEISTUNGTAGESPARAMETERABHMALO
+  nameWithType: Verbrauchsmengetyp.ARBEITLEISTUNGTAGESPARAMETERABHMALO
+- uid: BO4E.ENUM.Verbrauchsmengetyp.TUMKUNDENWERT
+  name: TUMKUNDENWERT
+  href: api/BO4E.ENUM.Verbrauchsmengetyp.html#BO4E_ENUM_Verbrauchsmengetyp_TUMKUNDENWERT
+  commentId: F:BO4E.ENUM.Verbrauchsmengetyp.TUMKUNDENWERT
+  fullName: BO4E.ENUM.Verbrauchsmengetyp.TUMKUNDENWERT
+  nameWithType: Verbrauchsmengetyp.TUMKUNDENWERT
+- uid: BO4E.ENUM.Verbrauchsmengetyp.VERANSCHLAGTEJAHRESMENGE
+  name: VERANSCHLAGTEJAHRESMENGE
+  href: api/BO4E.ENUM.Verbrauchsmengetyp.html#BO4E_ENUM_Verbrauchsmengetyp_VERANSCHLAGTEJAHRESMENGE
+  commentId: F:BO4E.ENUM.Verbrauchsmengetyp.VERANSCHLAGTEJAHRESMENGE
+  fullName: BO4E.ENUM.Verbrauchsmengetyp.VERANSCHLAGTEJAHRESMENGE
+  nameWithType: Verbrauchsmengetyp.VERANSCHLAGTEJAHRESMENGE
 - uid: BO4E.ENUM.Vertragsart
   name: Vertragsart
   href: api/BO4E.ENUM.Vertragsart.html
@@ -13686,6 +13836,54 @@ references:
   commentId: F:BO4E.ENUM.Zeiteinheit.WOCHE
   fullName: BO4E.ENUM.Zeiteinheit.WOCHE
   nameWithType: Zeiteinheit.WOCHE
+- uid: BO4E.ENUM.Zeitreihentyp
+  name: Zeitreihentyp
+  href: api/BO4E.ENUM.Zeitreihentyp.html
+  commentId: T:BO4E.ENUM.Zeitreihentyp
+  fullName: BO4E.ENUM.Zeitreihentyp
+  nameWithType: Zeitreihentyp
+- uid: BO4E.ENUM.Zeitreihentyp.EGS
+  name: EGS
+  href: api/BO4E.ENUM.Zeitreihentyp.html#BO4E_ENUM_Zeitreihentyp_EGS
+  commentId: F:BO4E.ENUM.Zeitreihentyp.EGS
+  fullName: BO4E.ENUM.Zeitreihentyp.EGS
+  nameWithType: Zeitreihentyp.EGS
+- uid: BO4E.ENUM.Zeitreihentyp.LGS
+  name: LGS
+  href: api/BO4E.ENUM.Zeitreihentyp.html#BO4E_ENUM_Zeitreihentyp_LGS
+  commentId: F:BO4E.ENUM.Zeitreihentyp.LGS
+  fullName: BO4E.ENUM.Zeitreihentyp.LGS
+  nameWithType: Zeitreihentyp.LGS
+- uid: BO4E.ENUM.Zeitreihentyp.NZR
+  name: NZR
+  href: api/BO4E.ENUM.Zeitreihentyp.html#BO4E_ENUM_Zeitreihentyp_NZR
+  commentId: F:BO4E.ENUM.Zeitreihentyp.NZR
+  fullName: BO4E.ENUM.Zeitreihentyp.NZR
+  nameWithType: Zeitreihentyp.NZR
+- uid: BO4E.ENUM.Zeitreihentyp.SES
+  name: SES
+  href: api/BO4E.ENUM.Zeitreihentyp.html#BO4E_ENUM_Zeitreihentyp_SES
+  commentId: F:BO4E.ENUM.Zeitreihentyp.SES
+  fullName: BO4E.ENUM.Zeitreihentyp.SES
+  nameWithType: Zeitreihentyp.SES
+- uid: BO4E.ENUM.Zeitreihentyp.SLS
+  name: SLS
+  href: api/BO4E.ENUM.Zeitreihentyp.html#BO4E_ENUM_Zeitreihentyp_SLS
+  commentId: F:BO4E.ENUM.Zeitreihentyp.SLS
+  fullName: BO4E.ENUM.Zeitreihentyp.SLS
+  nameWithType: Zeitreihentyp.SLS
+- uid: BO4E.ENUM.Zeitreihentyp.TES
+  name: TES
+  href: api/BO4E.ENUM.Zeitreihentyp.html#BO4E_ENUM_Zeitreihentyp_TES
+  commentId: F:BO4E.ENUM.Zeitreihentyp.TES
+  fullName: BO4E.ENUM.Zeitreihentyp.TES
+  nameWithType: Zeitreihentyp.TES
+- uid: BO4E.ENUM.Zeitreihentyp.TLS
+  name: TLS
+  href: api/BO4E.ENUM.Zeitreihentyp.html#BO4E_ENUM_Zeitreihentyp_TLS
+  commentId: F:BO4E.ENUM.Zeitreihentyp.TLS
+  fullName: BO4E.ENUM.Zeitreihentyp.TLS
+  nameWithType: Zeitreihentyp.TLS
 - uid: BO4E.Extensions.BusinessObjects
   name: BO4E.Extensions.BusinessObjects
   href: api/BO4E.Extensions.BusinessObjects.html
@@ -15743,6 +15941,90 @@ references:
   isSpec: "True"
   fullName: BO4E.meta.MultiLangResolver.CreateProperty
   nameWithType: MultiLangResolver.CreateProperty
+- uid: BO4E.meta.NonOfficialAttribute
+  name: NonOfficialAttribute
+  href: api/BO4E.meta.NonOfficialAttribute.html
+  commentId: T:BO4E.meta.NonOfficialAttribute
+  fullName: BO4E.meta.NonOfficialAttribute
+  nameWithType: NonOfficialAttribute
+- uid: BO4E.meta.NonOfficialAttribute.#ctor(System.Object[])
+  name: NonOfficialAttribute(Object[])
+  href: api/BO4E.meta.NonOfficialAttribute.html#BO4E_meta_NonOfficialAttribute__ctor_System_Object___
+  commentId: M:BO4E.meta.NonOfficialAttribute.#ctor(System.Object[])
+  name.vb: NonOfficialAttribute(Object())
+  fullName: BO4E.meta.NonOfficialAttribute.NonOfficialAttribute(System.Object[])
+  fullName.vb: BO4E.meta.NonOfficialAttribute.NonOfficialAttribute(System.Object())
+  nameWithType: NonOfficialAttribute.NonOfficialAttribute(Object[])
+  nameWithType.vb: NonOfficialAttribute.NonOfficialAttribute(Object())
+- uid: BO4E.meta.NonOfficialAttribute.#ctor*
+  name: NonOfficialAttribute
+  href: api/BO4E.meta.NonOfficialAttribute.html#BO4E_meta_NonOfficialAttribute__ctor_
+  commentId: Overload:BO4E.meta.NonOfficialAttribute.#ctor
+  isSpec: "True"
+  fullName: BO4E.meta.NonOfficialAttribute.NonOfficialAttribute
+  nameWithType: NonOfficialAttribute.NonOfficialAttribute
+- uid: BO4E.meta.NonOfficialAttribute.HasCategory(BO4E.meta.NonOfficialCategory)
+  name: HasCategory(NonOfficialCategory)
+  href: api/BO4E.meta.NonOfficialAttribute.html#BO4E_meta_NonOfficialAttribute_HasCategory_BO4E_meta_NonOfficialCategory_
+  commentId: M:BO4E.meta.NonOfficialAttribute.HasCategory(BO4E.meta.NonOfficialCategory)
+  fullName: BO4E.meta.NonOfficialAttribute.HasCategory(BO4E.meta.NonOfficialCategory)
+  nameWithType: NonOfficialAttribute.HasCategory(NonOfficialCategory)
+- uid: BO4E.meta.NonOfficialAttribute.HasCategory*
+  name: HasCategory
+  href: api/BO4E.meta.NonOfficialAttribute.html#BO4E_meta_NonOfficialAttribute_HasCategory_
+  commentId: Overload:BO4E.meta.NonOfficialAttribute.HasCategory
+  isSpec: "True"
+  fullName: BO4E.meta.NonOfficialAttribute.HasCategory
+  nameWithType: NonOfficialAttribute.HasCategory
+- uid: BO4E.meta.NonOfficialAttribute.Mapping
+  name: Mapping
+  href: api/BO4E.meta.NonOfficialAttribute.html#BO4E_meta_NonOfficialAttribute_Mapping
+  commentId: P:BO4E.meta.NonOfficialAttribute.Mapping
+  fullName: BO4E.meta.NonOfficialAttribute.Mapping
+  nameWithType: NonOfficialAttribute.Mapping
+- uid: BO4E.meta.NonOfficialAttribute.Mapping*
+  name: Mapping
+  href: api/BO4E.meta.NonOfficialAttribute.html#BO4E_meta_NonOfficialAttribute_Mapping_
+  commentId: Overload:BO4E.meta.NonOfficialAttribute.Mapping
+  isSpec: "True"
+  fullName: BO4E.meta.NonOfficialAttribute.Mapping
+  nameWithType: NonOfficialAttribute.Mapping
+- uid: BO4E.meta.NonOfficialCategory
+  name: NonOfficialCategory
+  href: api/BO4E.meta.NonOfficialCategory.html
+  commentId: T:BO4E.meta.NonOfficialCategory
+  fullName: BO4E.meta.NonOfficialCategory
+  nameWithType: NonOfficialCategory
+- uid: BO4E.meta.NonOfficialCategory.CUSTOMER_REQUIREMENTS
+  name: CUSTOMER_REQUIREMENTS
+  href: api/BO4E.meta.NonOfficialCategory.html#BO4E_meta_NonOfficialCategory_CUSTOMER_REQUIREMENTS
+  commentId: F:BO4E.meta.NonOfficialCategory.CUSTOMER_REQUIREMENTS
+  fullName: BO4E.meta.NonOfficialCategory.CUSTOMER_REQUIREMENTS
+  nameWithType: NonOfficialCategory.CUSTOMER_REQUIREMENTS
+- uid: BO4E.meta.NonOfficialCategory.MISSING
+  name: MISSING
+  href: api/BO4E.meta.NonOfficialCategory.html#BO4E_meta_NonOfficialCategory_MISSING
+  commentId: F:BO4E.meta.NonOfficialCategory.MISSING
+  fullName: BO4E.meta.NonOfficialCategory.MISSING
+  nameWithType: NonOfficialCategory.MISSING
+- uid: BO4E.meta.NonOfficialCategory.PROPOSED_DELETION
+  name: PROPOSED_DELETION
+  href: api/BO4E.meta.NonOfficialCategory.html#BO4E_meta_NonOfficialCategory_PROPOSED_DELETION
+  commentId: F:BO4E.meta.NonOfficialCategory.PROPOSED_DELETION
+  fullName: BO4E.meta.NonOfficialCategory.PROPOSED_DELETION
+  nameWithType: NonOfficialCategory.PROPOSED_DELETION
+- uid: BO4E.meta.NonOfficialCategory.REGULATORY_REQUIREMENTS
+  name: REGULATORY_REQUIREMENTS
+  href: api/BO4E.meta.NonOfficialCategory.html#BO4E_meta_NonOfficialCategory_REGULATORY_REQUIREMENTS
+  commentId: F:BO4E.meta.NonOfficialCategory.REGULATORY_REQUIREMENTS
+  fullName: BO4E.meta.NonOfficialCategory.REGULATORY_REQUIREMENTS
+  nameWithType: NonOfficialCategory.REGULATORY_REQUIREMENTS
+- uid: BO4E.meta.NonOfficialCategory.UNSPECIFIED
+  name: UNSPECIFIED
+  href: api/BO4E.meta.NonOfficialCategory.html#BO4E_meta_NonOfficialCategory_UNSPECIFIED
+  commentId: F:BO4E.meta.NonOfficialCategory.UNSPECIFIED
+  fullName: BO4E.meta.NonOfficialCategory.UNSPECIFIED
+  nameWithType: NonOfficialCategory.UNSPECIFIED
 - uid: BO4E.meta.StringUriConverter
   name: StringUriConverter
   href: api/BO4E.meta.StringUriConverter.html
@@ -16021,37 +16303,6 @@ references:
   isSpec: "True"
   fullName: BO4E.StaticLogger.Logger
   nameWithType: StaticLogger.Logger
-- uid: TestBO4E
-  name: TestBO4E
-  href: api/TestBO4E.html
-  commentId: N:TestBO4E
-  fullName: TestBO4E
-  nameWithType: TestBO4E
-- uid: TestBO4E.CreateTimeZoneJson
-  name: CreateTimeZoneJson
-  href: api/TestBO4E.CreateTimeZoneJson.html
-  commentId: T:TestBO4E.CreateTimeZoneJson
-  fullName: TestBO4E.CreateTimeZoneJson
-  nameWithType: CreateTimeZoneJson
-- uid: TestBO4E.CreateTimeZoneJson.resxName
-  name: resxName
-  href: api/TestBO4E.CreateTimeZoneJson.html#TestBO4E_CreateTimeZoneJson_resxName
-  commentId: F:TestBO4E.CreateTimeZoneJson.resxName
-  fullName: TestBO4E.CreateTimeZoneJson.resxName
-  nameWithType: CreateTimeZoneJson.resxName
-- uid: TestBO4E.CreateTimeZoneJson.SerializeAsJson
-  name: SerializeAsJson()
-  href: api/TestBO4E.CreateTimeZoneJson.html#TestBO4E_CreateTimeZoneJson_SerializeAsJson
-  commentId: M:TestBO4E.CreateTimeZoneJson.SerializeAsJson
-  fullName: TestBO4E.CreateTimeZoneJson.SerializeAsJson()
-  nameWithType: CreateTimeZoneJson.SerializeAsJson()
-- uid: TestBO4E.CreateTimeZoneJson.SerializeAsJson*
-  name: SerializeAsJson
-  href: api/TestBO4E.CreateTimeZoneJson.html#TestBO4E_CreateTimeZoneJson_SerializeAsJson_
-  commentId: Overload:TestBO4E.CreateTimeZoneJson.SerializeAsJson
-  isSpec: "True"
-  fullName: TestBO4E.CreateTimeZoneJson.SerializeAsJson
-  nameWithType: CreateTimeZoneJson.SerializeAsJson
 - uid: TestBO4E.Reporting
   name: TestBO4E.Reporting
   href: api/TestBO4E.Reporting.html
@@ -16161,903 +16412,6 @@ references:
   isSpec: "True"
   fullName: TestBO4E.Reporting.TestReportToCsv.TestPrivateFieldsAndUserProperties
   nameWithType: TestReportToCsv.TestPrivateFieldsAndUserProperties
-- uid: TestBO4E.TestAbstractDeserialization
-  name: TestAbstractDeserialization
-  href: api/TestBO4E.TestAbstractDeserialization.html
-  commentId: T:TestBO4E.TestAbstractDeserialization
-  fullName: TestBO4E.TestAbstractDeserialization
-  nameWithType: TestAbstractDeserialization
-- uid: TestBO4E.TestAbstractDeserialization.TestMaLoDeserialization
-  name: TestMaLoDeserialization()
-  href: api/TestBO4E.TestAbstractDeserialization.html#TestBO4E_TestAbstractDeserialization_TestMaLoDeserialization
-  commentId: M:TestBO4E.TestAbstractDeserialization.TestMaLoDeserialization
-  fullName: TestBO4E.TestAbstractDeserialization.TestMaLoDeserialization()
-  nameWithType: TestAbstractDeserialization.TestMaLoDeserialization()
-- uid: TestBO4E.TestAbstractDeserialization.TestMaLoDeserialization*
-  name: TestMaLoDeserialization
-  href: api/TestBO4E.TestAbstractDeserialization.html#TestBO4E_TestAbstractDeserialization_TestMaLoDeserialization_
-  commentId: Overload:TestBO4E.TestAbstractDeserialization.TestMaLoDeserialization
-  isSpec: "True"
-  fullName: TestBO4E.TestAbstractDeserialization.TestMaLoDeserialization
-  nameWithType: TestAbstractDeserialization.TestMaLoDeserialization
-- uid: TestBO4E.TestBo4eURI
-  name: TestBo4eURI
-  href: api/TestBO4E.TestBo4eURI.html
-  commentId: T:TestBO4E.TestBo4eURI
-  fullName: TestBO4E.TestBo4eURI
-  nameWithType: TestBo4eURI
-- uid: TestBO4E.TestBo4eURI.TestBoKeyNames
-  name: TestBoKeyNames()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestBoKeyNames
-  commentId: M:TestBO4E.TestBo4eURI.TestBoKeyNames
-  fullName: TestBO4E.TestBo4eURI.TestBoKeyNames()
-  nameWithType: TestBo4eURI.TestBoKeyNames()
-- uid: TestBO4E.TestBo4eURI.TestBoKeyNames*
-  name: TestBoKeyNames
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestBoKeyNames_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestBoKeyNames
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestBoKeyNames
-  nameWithType: TestBo4eURI.TestBoKeyNames
-- uid: TestBO4E.TestBo4eURI.TestBoNamesAndTypes
-  name: TestBoNamesAndTypes()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestBoNamesAndTypes
-  commentId: M:TestBO4E.TestBo4eURI.TestBoNamesAndTypes
-  fullName: TestBO4E.TestBo4eURI.TestBoNamesAndTypes()
-  nameWithType: TestBo4eURI.TestBoNamesAndTypes()
-- uid: TestBO4E.TestBo4eURI.TestBoNamesAndTypes*
-  name: TestBoNamesAndTypes
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestBoNamesAndTypes_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestBoNamesAndTypes
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestBoNamesAndTypes
-  nameWithType: TestBo4eURI.TestBoNamesAndTypes
-- uid: TestBO4E.TestBo4eURI.TestEmptyUriQueryObject
-  name: TestEmptyUriQueryObject()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestEmptyUriQueryObject
-  commentId: M:TestBO4E.TestBo4eURI.TestEmptyUriQueryObject
-  fullName: TestBO4E.TestBo4eURI.TestEmptyUriQueryObject()
-  nameWithType: TestBo4eURI.TestEmptyUriQueryObject()
-- uid: TestBO4E.TestBo4eURI.TestEmptyUriQueryObject*
-  name: TestEmptyUriQueryObject
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestEmptyUriQueryObject_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestEmptyUriQueryObject
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestEmptyUriQueryObject
-  nameWithType: TestBo4eURI.TestEmptyUriQueryObject
-- uid: TestBO4E.TestBo4eURI.TestImplicitStringConversion
-  name: TestImplicitStringConversion()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestImplicitStringConversion
-  commentId: M:TestBO4E.TestBo4eURI.TestImplicitStringConversion
-  fullName: TestBO4E.TestBo4eURI.TestImplicitStringConversion()
-  nameWithType: TestBo4eURI.TestImplicitStringConversion()
-- uid: TestBO4E.TestBo4eURI.TestImplicitStringConversion*
-  name: TestImplicitStringConversion
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestImplicitStringConversion_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestImplicitStringConversion
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestImplicitStringConversion
-  nameWithType: TestBo4eURI.TestImplicitStringConversion
-- uid: TestBO4E.TestBo4eURI.TestKlaerfallQueryObject
-  name: TestKlaerfallQueryObject()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestKlaerfallQueryObject
-  commentId: M:TestBO4E.TestBo4eURI.TestKlaerfallQueryObject
-  fullName: TestBO4E.TestBo4eURI.TestKlaerfallQueryObject()
-  nameWithType: TestBo4eURI.TestKlaerfallQueryObject()
-- uid: TestBO4E.TestBo4eURI.TestKlaerfallQueryObject*
-  name: TestKlaerfallQueryObject
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestKlaerfallQueryObject_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestKlaerfallQueryObject
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestKlaerfallQueryObject
-  nameWithType: TestBo4eURI.TestKlaerfallQueryObject
-- uid: TestBO4E.TestBo4eURI.TestRLMFilter
-  name: TestRLMFilter()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestRLMFilter
-  commentId: M:TestBO4E.TestBo4eURI.TestRLMFilter
-  fullName: TestBO4E.TestBo4eURI.TestRLMFilter()
-  nameWithType: TestBo4eURI.TestRLMFilter()
-- uid: TestBO4E.TestBo4eURI.TestRLMFilter*
-  name: TestRLMFilter
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestRLMFilter_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestRLMFilter
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestRLMFilter
-  nameWithType: TestBo4eURI.TestRLMFilter
-- uid: TestBO4E.TestBo4eURI.TestRoundTripUriFilterQueryObject
-  name: TestRoundTripUriFilterQueryObject()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestRoundTripUriFilterQueryObject
-  commentId: M:TestBO4E.TestBo4eURI.TestRoundTripUriFilterQueryObject
-  fullName: TestBO4E.TestBo4eURI.TestRoundTripUriFilterQueryObject()
-  nameWithType: TestBo4eURI.TestRoundTripUriFilterQueryObject()
-- uid: TestBO4E.TestBo4eURI.TestRoundTripUriFilterQueryObject*
-  name: TestRoundTripUriFilterQueryObject
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestRoundTripUriFilterQueryObject_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestRoundTripUriFilterQueryObject
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestRoundTripUriFilterQueryObject
-  nameWithType: TestBo4eURI.TestRoundTripUriFilterQueryObject
-- uid: TestBO4E.TestBo4eURI.TestUPInclusion
-  name: TestUPInclusion()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestUPInclusion
-  commentId: M:TestBO4E.TestBo4eURI.TestUPInclusion
-  fullName: TestBO4E.TestBo4eURI.TestUPInclusion()
-  nameWithType: TestBo4eURI.TestUPInclusion()
-- uid: TestBO4E.TestBo4eURI.TestUPInclusion*
-  name: TestUPInclusion
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestUPInclusion_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestUPInclusion
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestUPInclusion
-  nameWithType: TestBo4eURI.TestUPInclusion
-- uid: TestBO4E.TestBo4eURI.TestUriConstructionAndKeyDeconstruction
-  name: TestUriConstructionAndKeyDeconstruction()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestUriConstructionAndKeyDeconstruction
-  commentId: M:TestBO4E.TestBo4eURI.TestUriConstructionAndKeyDeconstruction
-  fullName: TestBO4E.TestBo4eURI.TestUriConstructionAndKeyDeconstruction()
-  nameWithType: TestBo4eURI.TestUriConstructionAndKeyDeconstruction()
-- uid: TestBO4E.TestBo4eURI.TestUriConstructionAndKeyDeconstruction*
-  name: TestUriConstructionAndKeyDeconstruction
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestUriConstructionAndKeyDeconstruction_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestUriConstructionAndKeyDeconstruction
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestUriConstructionAndKeyDeconstruction
-  nameWithType: TestBo4eURI.TestUriConstructionAndKeyDeconstruction
-- uid: TestBO4E.TestBo4eURI.TestValidity
-  name: TestValidity()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestValidity
-  commentId: M:TestBO4E.TestBo4eURI.TestValidity
-  fullName: TestBO4E.TestBo4eURI.TestValidity()
-  nameWithType: TestBo4eURI.TestValidity()
-- uid: TestBO4E.TestBo4eURI.TestValidity*
-  name: TestValidity
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestValidity_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestValidity
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestValidity
-  nameWithType: TestBo4eURI.TestValidity
-- uid: TestBO4E.TestBo4eURI.TestWellformedKannmichmal
-  name: TestWellformedKannmichmal()
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestWellformedKannmichmal
-  commentId: M:TestBO4E.TestBo4eURI.TestWellformedKannmichmal
-  fullName: TestBO4E.TestBo4eURI.TestWellformedKannmichmal()
-  nameWithType: TestBo4eURI.TestWellformedKannmichmal()
-- uid: TestBO4E.TestBo4eURI.TestWellformedKannmichmal*
-  name: TestWellformedKannmichmal
-  href: api/TestBO4E.TestBo4eURI.html#TestBO4E_TestBo4eURI_TestWellformedKannmichmal_
-  commentId: Overload:TestBO4E.TestBo4eURI.TestWellformedKannmichmal
-  isSpec: "True"
-  fullName: TestBO4E.TestBo4eURI.TestWellformedKannmichmal
-  nameWithType: TestBo4eURI.TestWellformedKannmichmal
-- uid: TestBO4E.TestBOCOMDesign
-  name: TestBOCOMDesign
-  href: api/TestBO4E.TestBOCOMDesign.html
-  commentId: T:TestBO4E.TestBOCOMDesign
-  fullName: TestBO4E.TestBOCOMDesign
-  nameWithType: TestBOCOMDesign
-- uid: TestBO4E.TestBOCOMDesign.NullableDefaultEnums
-  name: NullableDefaultEnums()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_NullableDefaultEnums
-  commentId: M:TestBO4E.TestBOCOMDesign.NullableDefaultEnums
-  fullName: TestBO4E.TestBOCOMDesign.NullableDefaultEnums()
-  nameWithType: TestBOCOMDesign.NullableDefaultEnums()
-- uid: TestBO4E.TestBOCOMDesign.NullableDefaultEnums*
-  name: NullableDefaultEnums
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_NullableDefaultEnums_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.NullableDefaultEnums
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.NullableDefaultEnums
-  nameWithType: TestBOCOMDesign.NullableDefaultEnums
-- uid: TestBO4E.TestBOCOMDesign.TestBoAllPublic
-  name: TestBoAllPublic()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestBoAllPublic
-  commentId: M:TestBO4E.TestBOCOMDesign.TestBoAllPublic
-  fullName: TestBO4E.TestBOCOMDesign.TestBoAllPublic()
-  nameWithType: TestBOCOMDesign.TestBoAllPublic()
-- uid: TestBO4E.TestBOCOMDesign.TestBoAllPublic*
-  name: TestBoAllPublic
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestBoAllPublic_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.TestBoAllPublic
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.TestBoAllPublic
-  nameWithType: TestBOCOMDesign.TestBoAllPublic
-- uid: TestBO4E.TestBOCOMDesign.TestBoInheritance
-  name: TestBoInheritance()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestBoInheritance
-  commentId: M:TestBO4E.TestBOCOMDesign.TestBoInheritance
-  fullName: TestBO4E.TestBOCOMDesign.TestBoInheritance()
-  nameWithType: TestBOCOMDesign.TestBoInheritance()
-- uid: TestBO4E.TestBOCOMDesign.TestBoInheritance*
-  name: TestBoInheritance
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestBoInheritance_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.TestBoInheritance
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.TestBoInheritance
-  nameWithType: TestBOCOMDesign.TestBoInheritance
-- uid: TestBO4E.TestBOCOMDesign.TestBoKeys
-  name: TestBoKeys()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestBoKeys
-  commentId: M:TestBO4E.TestBOCOMDesign.TestBoKeys
-  fullName: TestBO4E.TestBOCOMDesign.TestBoKeys()
-  nameWithType: TestBOCOMDesign.TestBoKeys()
-- uid: TestBO4E.TestBOCOMDesign.TestBoKeys*
-  name: TestBoKeys
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestBoKeys_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.TestBoKeys
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.TestBoKeys
-  nameWithType: TestBOCOMDesign.TestBoKeys
-- uid: TestBO4E.TestBOCOMDesign.TestCOMAllPublic
-  name: TestCOMAllPublic()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestCOMAllPublic
-  commentId: M:TestBO4E.TestBOCOMDesign.TestCOMAllPublic
-  fullName: TestBO4E.TestBOCOMDesign.TestCOMAllPublic()
-  nameWithType: TestBOCOMDesign.TestCOMAllPublic()
-- uid: TestBO4E.TestBOCOMDesign.TestCOMAllPublic*
-  name: TestCOMAllPublic
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestCOMAllPublic_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.TestCOMAllPublic
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.TestCOMAllPublic
-  nameWithType: TestBOCOMDesign.TestCOMAllPublic
-- uid: TestBO4E.TestBOCOMDesign.TestCOMInheritance
-  name: TestCOMInheritance()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestCOMInheritance
-  commentId: M:TestBO4E.TestBOCOMDesign.TestCOMInheritance
-  fullName: TestBO4E.TestBOCOMDesign.TestCOMInheritance()
-  nameWithType: TestBOCOMDesign.TestCOMInheritance()
-- uid: TestBO4E.TestBOCOMDesign.TestCOMInheritance*
-  name: TestCOMInheritance
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestCOMInheritance_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.TestCOMInheritance
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.TestCOMInheritance
-  nameWithType: TestBOCOMDesign.TestCOMInheritance
-- uid: TestBO4E.TestBOCOMDesign.TestEnumNamespace
-  name: TestEnumNamespace()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestEnumNamespace
-  commentId: M:TestBO4E.TestBOCOMDesign.TestEnumNamespace
-  fullName: TestBO4E.TestBOCOMDesign.TestEnumNamespace()
-  nameWithType: TestBOCOMDesign.TestEnumNamespace()
-- uid: TestBO4E.TestBOCOMDesign.TestEnumNamespace*
-  name: TestEnumNamespace
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestEnumNamespace_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.TestEnumNamespace
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.TestEnumNamespace
-  nameWithType: TestBOCOMDesign.TestEnumNamespace
-- uid: TestBO4E.TestBOCOMDesign.TestNoPropertiesBo
-  name: TestNoPropertiesBo()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestNoPropertiesBo
-  commentId: M:TestBO4E.TestBOCOMDesign.TestNoPropertiesBo
-  fullName: TestBO4E.TestBOCOMDesign.TestNoPropertiesBo()
-  nameWithType: TestBOCOMDesign.TestNoPropertiesBo()
-- uid: TestBO4E.TestBOCOMDesign.TestNoPropertiesBo*
-  name: TestNoPropertiesBo
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestNoPropertiesBo_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.TestNoPropertiesBo
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.TestNoPropertiesBo
-  nameWithType: TestBOCOMDesign.TestNoPropertiesBo
-- uid: TestBO4E.TestBOCOMDesign.TestNoPropertiesCOM
-  name: TestNoPropertiesCOM()
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestNoPropertiesCOM
-  commentId: M:TestBO4E.TestBOCOMDesign.TestNoPropertiesCOM
-  fullName: TestBO4E.TestBOCOMDesign.TestNoPropertiesCOM()
-  nameWithType: TestBOCOMDesign.TestNoPropertiesCOM()
-- uid: TestBO4E.TestBOCOMDesign.TestNoPropertiesCOM*
-  name: TestNoPropertiesCOM
-  href: api/TestBO4E.TestBOCOMDesign.html#TestBO4E_TestBOCOMDesign_TestNoPropertiesCOM_
-  commentId: Overload:TestBO4E.TestBOCOMDesign.TestNoPropertiesCOM
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMDesign.TestNoPropertiesCOM
-  nameWithType: TestBOCOMDesign.TestNoPropertiesCOM
-- uid: TestBO4E.TestBOCOMGuids
-  name: TestBOCOMGuids
-  href: api/TestBO4E.TestBOCOMGuids.html
-  commentId: T:TestBO4E.TestBOCOMGuids
-  fullName: TestBO4E.TestBOCOMGuids
-  nameWithType: TestBOCOMGuids
-- uid: TestBO4E.TestBOCOMGuids.TestBOGuids
-  name: TestBOGuids()
-  href: api/TestBO4E.TestBOCOMGuids.html#TestBO4E_TestBOCOMGuids_TestBOGuids
-  commentId: M:TestBO4E.TestBOCOMGuids.TestBOGuids
-  fullName: TestBO4E.TestBOCOMGuids.TestBOGuids()
-  nameWithType: TestBOCOMGuids.TestBOGuids()
-- uid: TestBO4E.TestBOCOMGuids.TestBOGuids*
-  name: TestBOGuids
-  href: api/TestBO4E.TestBOCOMGuids.html#TestBO4E_TestBOCOMGuids_TestBOGuids_
-  commentId: Overload:TestBO4E.TestBOCOMGuids.TestBOGuids
-  isSpec: "True"
-  fullName: TestBO4E.TestBOCOMGuids.TestBOGuids
-  nameWithType: TestBOCOMGuids.TestBOGuids
-- uid: TestBO4E.TestBoEdiMapper
-  name: TestBoEdiMapper
-  href: api/TestBO4E.TestBoEdiMapper.html
-  commentId: T:TestBO4E.TestBoEdiMapper
-  fullName: TestBO4E.TestBoEdiMapper
-  nameWithType: TestBoEdiMapper
-- uid: TestBO4E.TestBoEdiMapper.#ctor
-  name: TestBoEdiMapper()
-  href: api/TestBO4E.TestBoEdiMapper.html#TestBO4E_TestBoEdiMapper__ctor
-  commentId: M:TestBO4E.TestBoEdiMapper.#ctor
-  fullName: TestBO4E.TestBoEdiMapper.TestBoEdiMapper()
-  nameWithType: TestBoEdiMapper.TestBoEdiMapper()
-- uid: TestBO4E.TestBoEdiMapper.#ctor*
-  name: TestBoEdiMapper
-  href: api/TestBO4E.TestBoEdiMapper.html#TestBO4E_TestBoEdiMapper__ctor_
-  commentId: Overload:TestBO4E.TestBoEdiMapper.#ctor
-  isSpec: "True"
-  fullName: TestBO4E.TestBoEdiMapper.TestBoEdiMapper
-  nameWithType: TestBoEdiMapper.TestBoEdiMapper
-- uid: TestBO4E.TestBoEdiMapper.TestBoEdiReplacement
-  name: TestBoEdiReplacement()
-  href: api/TestBO4E.TestBoEdiMapper.html#TestBO4E_TestBoEdiMapper_TestBoEdiReplacement
-  commentId: M:TestBO4E.TestBoEdiMapper.TestBoEdiReplacement
-  fullName: TestBO4E.TestBoEdiMapper.TestBoEdiReplacement()
-  nameWithType: TestBoEdiMapper.TestBoEdiReplacement()
-- uid: TestBO4E.TestBoEdiMapper.TestBoEdiReplacement*
-  name: TestBoEdiReplacement
-  href: api/TestBO4E.TestBoEdiMapper.html#TestBO4E_TestBoEdiMapper_TestBoEdiReplacement_
-  commentId: Overload:TestBO4E.TestBoEdiMapper.TestBoEdiReplacement
-  isSpec: "True"
-  fullName: TestBO4E.TestBoEdiMapper.TestBoEdiReplacement
-  nameWithType: TestBoEdiMapper.TestBoEdiReplacement
-- uid: TestBO4E.TestBoEdiMapper.TestNullStuff
-  name: TestNullStuff()
-  href: api/TestBO4E.TestBoEdiMapper.html#TestBO4E_TestBoEdiMapper_TestNullStuff
-  commentId: M:TestBO4E.TestBoEdiMapper.TestNullStuff
-  fullName: TestBO4E.TestBoEdiMapper.TestNullStuff()
-  nameWithType: TestBoEdiMapper.TestNullStuff()
-- uid: TestBO4E.TestBoEdiMapper.TestNullStuff*
-  name: TestNullStuff
-  href: api/TestBO4E.TestBoEdiMapper.html#TestBO4E_TestBoEdiMapper_TestNullStuff_
-  commentId: Overload:TestBO4E.TestBoEdiMapper.TestNullStuff
-  isSpec: "True"
-  fullName: TestBO4E.TestBoEdiMapper.TestNullStuff
-  nameWithType: TestBoEdiMapper.TestNullStuff
-- uid: TestBO4E.TestBoEdiMapper.TestSimpleEnums
-  name: TestSimpleEnums()
-  href: api/TestBO4E.TestBoEdiMapper.html#TestBO4E_TestBoEdiMapper_TestSimpleEnums
-  commentId: M:TestBO4E.TestBoEdiMapper.TestSimpleEnums
-  fullName: TestBO4E.TestBoEdiMapper.TestSimpleEnums()
-  nameWithType: TestBoEdiMapper.TestSimpleEnums()
-- uid: TestBO4E.TestBoEdiMapper.TestSimpleEnums*
-  name: TestSimpleEnums
-  href: api/TestBO4E.TestBoEdiMapper.html#TestBO4E_TestBoEdiMapper_TestSimpleEnums_
-  commentId: Overload:TestBO4E.TestBoEdiMapper.TestSimpleEnums
-  isSpec: "True"
-  fullName: TestBO4E.TestBoEdiMapper.TestSimpleEnums
-  nameWithType: TestBoEdiMapper.TestSimpleEnums
-- uid: TestBO4E.TestBoExpansion
-  name: TestBoExpansion
-  href: api/TestBO4E.TestBoExpansion.html
-  commentId: T:TestBO4E.TestBoExpansion
-  fullName: TestBO4E.TestBoExpansion
-  nameWithType: TestBoExpansion
-- uid: TestBO4E.TestBoExpansion.TestBoExpansionMaLo
-  name: TestBoExpansionMaLo()
-  href: api/TestBO4E.TestBoExpansion.html#TestBO4E_TestBoExpansion_TestBoExpansionMaLo
-  commentId: M:TestBO4E.TestBoExpansion.TestBoExpansionMaLo
-  fullName: TestBO4E.TestBoExpansion.TestBoExpansionMaLo()
-  nameWithType: TestBoExpansion.TestBoExpansionMaLo()
-- uid: TestBO4E.TestBoExpansion.TestBoExpansionMaLo*
-  name: TestBoExpansionMaLo
-  href: api/TestBO4E.TestBoExpansion.html#TestBO4E_TestBoExpansion_TestBoExpansionMaLo_
-  commentId: Overload:TestBO4E.TestBoExpansion.TestBoExpansionMaLo
-  isSpec: "True"
-  fullName: TestBO4E.TestBoExpansion.TestBoExpansionMaLo
-  nameWithType: TestBoExpansion.TestBoExpansionMaLo
-- uid: TestBO4E.TestBoExpansion.TestBoExpansionMeLo
-  name: TestBoExpansionMeLo()
-  href: api/TestBO4E.TestBoExpansion.html#TestBO4E_TestBoExpansion_TestBoExpansionMeLo
-  commentId: M:TestBO4E.TestBoExpansion.TestBoExpansionMeLo
-  fullName: TestBO4E.TestBoExpansion.TestBoExpansionMeLo()
-  nameWithType: TestBoExpansion.TestBoExpansionMeLo()
-- uid: TestBO4E.TestBoExpansion.TestBoExpansionMeLo*
-  name: TestBoExpansionMeLo
-  href: api/TestBO4E.TestBoExpansion.html#TestBO4E_TestBoExpansion_TestBoExpansionMeLo_
-  commentId: Overload:TestBO4E.TestBoExpansion.TestBoExpansionMeLo
-  isSpec: "True"
-  fullName: TestBO4E.TestBoExpansion.TestBoExpansionMeLo
-  nameWithType: TestBoExpansion.TestBoExpansionMeLo
-- uid: TestBO4E.TestBoExpansion.TestTypesEnergiemenge
-  name: TestTypesEnergiemenge()
-  href: api/TestBO4E.TestBoExpansion.html#TestBO4E_TestBoExpansion_TestTypesEnergiemenge
-  commentId: M:TestBO4E.TestBoExpansion.TestTypesEnergiemenge
-  fullName: TestBO4E.TestBoExpansion.TestTypesEnergiemenge()
-  nameWithType: TestBoExpansion.TestTypesEnergiemenge()
-- uid: TestBO4E.TestBoExpansion.TestTypesEnergiemenge*
-  name: TestTypesEnergiemenge
-  href: api/TestBO4E.TestBoExpansion.html#TestBO4E_TestBoExpansion_TestTypesEnergiemenge_
-  commentId: Overload:TestBO4E.TestBoExpansion.TestTypesEnergiemenge
-  isSpec: "True"
-  fullName: TestBO4E.TestBoExpansion.TestTypesEnergiemenge
-  nameWithType: TestBoExpansion.TestTypesEnergiemenge
-- uid: TestBO4E.TestBoMapper
-  name: TestBoMapper
-  href: api/TestBO4E.TestBoMapper.html
-  commentId: T:TestBO4E.TestBoMapper
-  fullName: TestBO4E.TestBoMapper
-  nameWithType: TestBoMapper
-- uid: TestBO4E.TestBoMapper.TestBoMapping
-  name: TestBoMapping()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestBoMapping
-  commentId: M:TestBO4E.TestBoMapper.TestBoMapping
-  fullName: TestBO4E.TestBoMapper.TestBoMapping()
-  nameWithType: TestBoMapper.TestBoMapping()
-- uid: TestBO4E.TestBoMapper.TestBoMapping*
-  name: TestBoMapping
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestBoMapping_
-  commentId: Overload:TestBO4E.TestBoMapper.TestBoMapping
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestBoMapping
-  nameWithType: TestBoMapper.TestBoMapping
-- uid: TestBO4E.TestBoMapper.TestBoNames
-  name: TestBoNames()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestBoNames
-  commentId: M:TestBO4E.TestBoMapper.TestBoNames
-  fullName: TestBO4E.TestBoMapper.TestBoNames()
-  nameWithType: TestBoMapper.TestBoNames()
-- uid: TestBO4E.TestBoMapper.TestBoNames*
-  name: TestBoNames
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestBoNames_
-  commentId: Overload:TestBO4E.TestBoMapper.TestBoNames
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestBoNames
-  nameWithType: TestBoMapper.TestBoNames
-- uid: TestBO4E.TestBoMapper.TestBoNameTyping
-  name: TestBoNameTyping()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestBoNameTyping
-  commentId: M:TestBO4E.TestBoMapper.TestBoNameTyping
-  fullName: TestBO4E.TestBoMapper.TestBoNameTyping()
-  nameWithType: TestBoMapper.TestBoNameTyping()
-- uid: TestBO4E.TestBoMapper.TestBoNameTyping*
-  name: TestBoNameTyping
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestBoNameTyping_
-  commentId: Overload:TestBO4E.TestBoMapper.TestBoNameTyping
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestBoNameTyping
-  nameWithType: TestBoMapper.TestBoNameTyping
-- uid: TestBO4E.TestBoMapper.TestFieldAnnotationFinder
-  name: TestFieldAnnotationFinder()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestFieldAnnotationFinder
-  commentId: M:TestBO4E.TestBoMapper.TestFieldAnnotationFinder
-  fullName: TestBO4E.TestBoMapper.TestFieldAnnotationFinder()
-  nameWithType: TestBoMapper.TestFieldAnnotationFinder()
-- uid: TestBO4E.TestBoMapper.TestFieldAnnotationFinder*
-  name: TestFieldAnnotationFinder
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestFieldAnnotationFinder_
-  commentId: Overload:TestBO4E.TestBoMapper.TestFieldAnnotationFinder
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestFieldAnnotationFinder
-  nameWithType: TestBoMapper.TestFieldAnnotationFinder
-- uid: TestBO4E.TestBoMapper.TestNullableDateTimeDeserialization
-  name: TestNullableDateTimeDeserialization()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestNullableDateTimeDeserialization
-  commentId: M:TestBO4E.TestBoMapper.TestNullableDateTimeDeserialization
-  fullName: TestBO4E.TestBoMapper.TestNullableDateTimeDeserialization()
-  nameWithType: TestBoMapper.TestNullableDateTimeDeserialization()
-- uid: TestBO4E.TestBoMapper.TestNullableDateTimeDeserialization*
-  name: TestNullableDateTimeDeserialization
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestNullableDateTimeDeserialization_
-  commentId: Overload:TestBO4E.TestBoMapper.TestNullableDateTimeDeserialization
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestNullableDateTimeDeserialization
-  nameWithType: TestBoMapper.TestNullableDateTimeDeserialization
-- uid: TestBO4E.TestBoMapper.TestProfDecimalsEnergiemengeBug
-  name: TestProfDecimalsEnergiemengeBug()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestProfDecimalsEnergiemengeBug
-  commentId: M:TestBO4E.TestBoMapper.TestProfDecimalsEnergiemengeBug
-  fullName: TestBO4E.TestBoMapper.TestProfDecimalsEnergiemengeBug()
-  nameWithType: TestBoMapper.TestProfDecimalsEnergiemengeBug()
-- uid: TestBO4E.TestBoMapper.TestProfDecimalsEnergiemengeBug*
-  name: TestProfDecimalsEnergiemengeBug
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestProfDecimalsEnergiemengeBug_
-  commentId: Overload:TestBO4E.TestBoMapper.TestProfDecimalsEnergiemengeBug
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestProfDecimalsEnergiemengeBug
-  nameWithType: TestBoMapper.TestProfDecimalsEnergiemengeBug
-- uid: TestBO4E.TestBoMapper.TestProfDecimalsVerbrauchBug
-  name: TestProfDecimalsVerbrauchBug()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestProfDecimalsVerbrauchBug
-  commentId: M:TestBO4E.TestBoMapper.TestProfDecimalsVerbrauchBug
-  fullName: TestBO4E.TestBoMapper.TestProfDecimalsVerbrauchBug()
-  nameWithType: TestBoMapper.TestProfDecimalsVerbrauchBug()
-- uid: TestBO4E.TestBoMapper.TestProfDecimalsVerbrauchBug*
-  name: TestProfDecimalsVerbrauchBug
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestProfDecimalsVerbrauchBug_
-  commentId: Overload:TestBO4E.TestBoMapper.TestProfDecimalsVerbrauchBug
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestProfDecimalsVerbrauchBug
-  nameWithType: TestBoMapper.TestProfDecimalsVerbrauchBug
-- uid: TestBO4E.TestBoMapper.TestSapTimeZoneUserProperties
-  name: TestSapTimeZoneUserProperties()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestSapTimeZoneUserProperties
-  commentId: M:TestBO4E.TestBoMapper.TestSapTimeZoneUserProperties
-  fullName: TestBO4E.TestBoMapper.TestSapTimeZoneUserProperties()
-  nameWithType: TestBoMapper.TestSapTimeZoneUserProperties()
-- uid: TestBO4E.TestBoMapper.TestSapTimeZoneUserProperties*
-  name: TestSapTimeZoneUserProperties
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestSapTimeZoneUserProperties_
-  commentId: Overload:TestBO4E.TestBoMapper.TestSapTimeZoneUserProperties
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestSapTimeZoneUserProperties
-  nameWithType: TestBoMapper.TestSapTimeZoneUserProperties
-- uid: TestBO4E.TestBoMapper.TestSommerzeitumstellung
-  name: TestSommerzeitumstellung()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestSommerzeitumstellung
-  commentId: M:TestBO4E.TestBoMapper.TestSommerzeitumstellung
-  fullName: TestBO4E.TestBoMapper.TestSommerzeitumstellung()
-  nameWithType: TestBoMapper.TestSommerzeitumstellung()
-- uid: TestBO4E.TestBoMapper.TestSommerzeitumstellung*
-  name: TestSommerzeitumstellung
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestSommerzeitumstellung_
-  commentId: Overload:TestBO4E.TestBoMapper.TestSommerzeitumstellung
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestSommerzeitumstellung
-  nameWithType: TestBoMapper.TestSommerzeitumstellung
-- uid: TestBO4E.TestBoMapper.TestSummerTimeBug
-  name: TestSummerTimeBug()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestSummerTimeBug
-  commentId: M:TestBO4E.TestBoMapper.TestSummerTimeBug
-  fullName: TestBO4E.TestBoMapper.TestSummerTimeBug()
-  nameWithType: TestBoMapper.TestSummerTimeBug()
-- uid: TestBO4E.TestBoMapper.TestSummerTimeBug*
-  name: TestSummerTimeBug
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestSummerTimeBug_
-  commentId: Overload:TestBO4E.TestBoMapper.TestSummerTimeBug
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestSummerTimeBug
-  nameWithType: TestBoMapper.TestSummerTimeBug
-- uid: TestBO4E.TestBoMapper.TestVertragQuickFix
-  name: TestVertragQuickFix()
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestVertragQuickFix
-  commentId: M:TestBO4E.TestBoMapper.TestVertragQuickFix
-  fullName: TestBO4E.TestBoMapper.TestVertragQuickFix()
-  nameWithType: TestBoMapper.TestVertragQuickFix()
-- uid: TestBO4E.TestBoMapper.TestVertragQuickFix*
-  name: TestVertragQuickFix
-  href: api/TestBO4E.TestBoMapper.html#TestBO4E_TestBoMapper_TestVertragQuickFix_
-  commentId: Overload:TestBO4E.TestBoMapper.TestVertragQuickFix
-  isSpec: "True"
-  fullName: TestBO4E.TestBoMapper.TestVertragQuickFix
-  nameWithType: TestBoMapper.TestVertragQuickFix
-- uid: TestBO4E.TestCOMValidity
-  name: TestCOMValidity
-  href: api/TestBO4E.TestCOMValidity.html
-  commentId: T:TestBO4E.TestCOMValidity
-  fullName: TestBO4E.TestCOMValidity
-  nameWithType: TestCOMValidity
-- uid: TestBO4E.TestCOMValidity.TestVerbrauch
-  name: TestVerbrauch()
-  href: api/TestBO4E.TestCOMValidity.html#TestBO4E_TestCOMValidity_TestVerbrauch
-  commentId: M:TestBO4E.TestCOMValidity.TestVerbrauch
-  fullName: TestBO4E.TestCOMValidity.TestVerbrauch()
-  nameWithType: TestCOMValidity.TestVerbrauch()
-- uid: TestBO4E.TestCOMValidity.TestVerbrauch*
-  name: TestVerbrauch
-  href: api/TestBO4E.TestCOMValidity.html#TestBO4E_TestCOMValidity_TestVerbrauch_
-  commentId: Overload:TestBO4E.TestCOMValidity.TestVerbrauch
-  isSpec: "True"
-  fullName: TestBO4E.TestCOMValidity.TestVerbrauch
-  nameWithType: TestCOMValidity.TestVerbrauch
-- uid: TestBO4E.TestEdiBOMapper
-  name: TestEdiBOMapper
-  href: api/TestBO4E.TestEdiBOMapper.html
-  commentId: T:TestBO4E.TestEdiBOMapper
-  fullName: TestBO4E.TestEdiBOMapper
-  nameWithType: TestEdiBOMapper
-- uid: TestBO4E.TestEdiBOMapper.#ctor
-  name: TestEdiBOMapper()
-  href: api/TestBO4E.TestEdiBOMapper.html#TestBO4E_TestEdiBOMapper__ctor
-  commentId: M:TestBO4E.TestEdiBOMapper.#ctor
-  fullName: TestBO4E.TestEdiBOMapper.TestEdiBOMapper()
-  nameWithType: TestEdiBOMapper.TestEdiBOMapper()
-- uid: TestBO4E.TestEdiBOMapper.#ctor*
-  name: TestEdiBOMapper
-  href: api/TestBO4E.TestEdiBOMapper.html#TestBO4E_TestEdiBOMapper__ctor_
-  commentId: Overload:TestBO4E.TestEdiBOMapper.#ctor
-  isSpec: "True"
-  fullName: TestBO4E.TestEdiBOMapper.TestEdiBOMapper
-  nameWithType: TestEdiBOMapper.TestEdiBOMapper
-- uid: TestBO4E.TestEdiBOMapper.TestSimpleEnums
-  name: TestSimpleEnums()
-  href: api/TestBO4E.TestEdiBOMapper.html#TestBO4E_TestEdiBOMapper_TestSimpleEnums
-  commentId: M:TestBO4E.TestEdiBOMapper.TestSimpleEnums
-  fullName: TestBO4E.TestEdiBOMapper.TestSimpleEnums()
-  nameWithType: TestEdiBOMapper.TestSimpleEnums()
-- uid: TestBO4E.TestEdiBOMapper.TestSimpleEnums*
-  name: TestSimpleEnums
-  href: api/TestBO4E.TestEdiBOMapper.html#TestBO4E_TestEdiBOMapper_TestSimpleEnums_
-  commentId: Overload:TestBO4E.TestEdiBOMapper.TestSimpleEnums
-  isSpec: "True"
-  fullName: TestBO4E.TestEdiBOMapper.TestSimpleEnums
-  nameWithType: TestEdiBOMapper.TestSimpleEnums
-- uid: TestBO4E.TestEnergiemengeAdding
-  name: TestEnergiemengeAdding
-  href: api/TestBO4E.TestEnergiemengeAdding.html
-  commentId: T:TestBO4E.TestEnergiemengeAdding
-  fullName: TestBO4E.TestEnergiemengeAdding
-  nameWithType: TestEnergiemengeAdding
-- uid: TestBO4E.TestEnergiemengeAdding.TestIllegalAdd
-  name: TestIllegalAdd()
-  href: api/TestBO4E.TestEnergiemengeAdding.html#TestBO4E_TestEnergiemengeAdding_TestIllegalAdd
-  commentId: M:TestBO4E.TestEnergiemengeAdding.TestIllegalAdd
-  fullName: TestBO4E.TestEnergiemengeAdding.TestIllegalAdd()
-  nameWithType: TestEnergiemengeAdding.TestIllegalAdd()
-- uid: TestBO4E.TestEnergiemengeAdding.TestIllegalAdd*
-  name: TestIllegalAdd
-  href: api/TestBO4E.TestEnergiemengeAdding.html#TestBO4E_TestEnergiemengeAdding_TestIllegalAdd_
-  commentId: Overload:TestBO4E.TestEnergiemengeAdding.TestIllegalAdd
-  isSpec: "True"
-  fullName: TestBO4E.TestEnergiemengeAdding.TestIllegalAdd
-  nameWithType: TestEnergiemengeAdding.TestIllegalAdd
-- uid: TestBO4E.TestEnergiemengeAdding.TestSimpleAdd
-  name: TestSimpleAdd()
-  href: api/TestBO4E.TestEnergiemengeAdding.html#TestBO4E_TestEnergiemengeAdding_TestSimpleAdd
-  commentId: M:TestBO4E.TestEnergiemengeAdding.TestSimpleAdd
-  fullName: TestBO4E.TestEnergiemengeAdding.TestSimpleAdd()
-  nameWithType: TestEnergiemengeAdding.TestSimpleAdd()
-- uid: TestBO4E.TestEnergiemengeAdding.TestSimpleAdd*
-  name: TestSimpleAdd
-  href: api/TestBO4E.TestEnergiemengeAdding.html#TestBO4E_TestEnergiemengeAdding_TestSimpleAdd_
-  commentId: Overload:TestBO4E.TestEnergiemengeAdding.TestSimpleAdd
-  isSpec: "True"
-  fullName: TestBO4E.TestEnergiemengeAdding.TestSimpleAdd
-  nameWithType: TestEnergiemengeAdding.TestSimpleAdd
-- uid: TestBO4E.TestEqualities
-  name: TestEqualities
-  href: api/TestBO4E.TestEqualities.html
-  commentId: T:TestBO4E.TestEqualities
-  fullName: TestBO4E.TestEqualities
-  nameWithType: TestEqualities
-- uid: TestBO4E.TestEqualities.TestEqualsBO
-  name: TestEqualsBO()
-  href: api/TestBO4E.TestEqualities.html#TestBO4E_TestEqualities_TestEqualsBO
-  commentId: M:TestBO4E.TestEqualities.TestEqualsBO
-  fullName: TestBO4E.TestEqualities.TestEqualsBO()
-  nameWithType: TestEqualities.TestEqualsBO()
-- uid: TestBO4E.TestEqualities.TestEqualsBO*
-  name: TestEqualsBO
-  href: api/TestBO4E.TestEqualities.html#TestBO4E_TestEqualities_TestEqualsBO_
-  commentId: Overload:TestBO4E.TestEqualities.TestEqualsBO
-  isSpec: "True"
-  fullName: TestBO4E.TestEqualities.TestEqualsBO
-  nameWithType: TestEqualities.TestEqualsBO
-- uid: TestBO4E.TestEqualities.TestEqualsCOM
-  name: TestEqualsCOM()
-  href: api/TestBO4E.TestEqualities.html#TestBO4E_TestEqualities_TestEqualsCOM
-  commentId: M:TestBO4E.TestEqualities.TestEqualsCOM
-  fullName: TestBO4E.TestEqualities.TestEqualsCOM()
-  nameWithType: TestEqualities.TestEqualsCOM()
-- uid: TestBO4E.TestEqualities.TestEqualsCOM*
-  name: TestEqualsCOM
-  href: api/TestBO4E.TestEqualities.html#TestBO4E_TestEqualities_TestEqualsCOM_
-  commentId: Overload:TestBO4E.TestEqualities.TestEqualsCOM
-  isSpec: "True"
-  fullName: TestBO4E.TestEqualities.TestEqualsCOM
-  nameWithType: TestEqualities.TestEqualsCOM
-- uid: TestBO4E.TestJsonSchemeGeneration
-  name: TestJsonSchemeGeneration
-  href: api/TestBO4E.TestJsonSchemeGeneration.html
-  commentId: T:TestBO4E.TestJsonSchemeGeneration
-  fullName: TestBO4E.TestJsonSchemeGeneration
-  nameWithType: TestJsonSchemeGeneration
-- uid: TestBO4E.TestJsonSchemeGeneration.BasicTest
-  name: BasicTest()
-  href: api/TestBO4E.TestJsonSchemeGeneration.html#TestBO4E_TestJsonSchemeGeneration_BasicTest
-  commentId: M:TestBO4E.TestJsonSchemeGeneration.BasicTest
-  fullName: TestBO4E.TestJsonSchemeGeneration.BasicTest()
-  nameWithType: TestJsonSchemeGeneration.BasicTest()
-- uid: TestBO4E.TestJsonSchemeGeneration.BasicTest*
-  name: BasicTest
-  href: api/TestBO4E.TestJsonSchemeGeneration.html#TestBO4E_TestJsonSchemeGeneration_BasicTest_
-  commentId: Overload:TestBO4E.TestJsonSchemeGeneration.BasicTest
-  isSpec: "True"
-  fullName: TestBO4E.TestJsonSchemeGeneration.BasicTest
-  nameWithType: TestJsonSchemeGeneration.BasicTest
-- uid: TestBO4E.TestJsonSchemeGeneration.NegativeTest
-  name: NegativeTest()
-  href: api/TestBO4E.TestJsonSchemeGeneration.html#TestBO4E_TestJsonSchemeGeneration_NegativeTest
-  commentId: M:TestBO4E.TestJsonSchemeGeneration.NegativeTest
-  fullName: TestBO4E.TestJsonSchemeGeneration.NegativeTest()
-  nameWithType: TestJsonSchemeGeneration.NegativeTest()
-- uid: TestBO4E.TestJsonSchemeGeneration.NegativeTest*
-  name: NegativeTest
-  href: api/TestBO4E.TestJsonSchemeGeneration.html#TestBO4E_TestJsonSchemeGeneration_NegativeTest_
-  commentId: Overload:TestBO4E.TestJsonSchemeGeneration.NegativeTest
-  isSpec: "True"
-  fullName: TestBO4E.TestJsonSchemeGeneration.NegativeTest
-  nameWithType: TestJsonSchemeGeneration.NegativeTest
-- uid: TestBO4E.TestMaLoMeLoId
-  name: TestMaLoMeLoId
-  href: api/TestBO4E.TestMaLoMeLoId.html
-  commentId: T:TestBO4E.TestMaLoMeLoId
-  fullName: TestBO4E.TestMaLoMeLoId
-  nameWithType: TestMaLoMeLoId
-- uid: TestBO4E.TestMaLoMeLoId.TestMaLoIdValidity
-  name: TestMaLoIdValidity()
-  href: api/TestBO4E.TestMaLoMeLoId.html#TestBO4E_TestMaLoMeLoId_TestMaLoIdValidity
-  commentId: M:TestBO4E.TestMaLoMeLoId.TestMaLoIdValidity
-  fullName: TestBO4E.TestMaLoMeLoId.TestMaLoIdValidity()
-  nameWithType: TestMaLoMeLoId.TestMaLoIdValidity()
-- uid: TestBO4E.TestMaLoMeLoId.TestMaLoIdValidity*
-  name: TestMaLoIdValidity
-  href: api/TestBO4E.TestMaLoMeLoId.html#TestBO4E_TestMaLoMeLoId_TestMaLoIdValidity_
-  commentId: Overload:TestBO4E.TestMaLoMeLoId.TestMaLoIdValidity
-  isSpec: "True"
-  fullName: TestBO4E.TestMaLoMeLoId.TestMaLoIdValidity
-  nameWithType: TestMaLoMeLoId.TestMaLoIdValidity
-- uid: TestBO4E.TestMaLoMeLoId.TestMeLoIdValidity
-  name: TestMeLoIdValidity()
-  href: api/TestBO4E.TestMaLoMeLoId.html#TestBO4E_TestMaLoMeLoId_TestMeLoIdValidity
-  commentId: M:TestBO4E.TestMaLoMeLoId.TestMeLoIdValidity
-  fullName: TestBO4E.TestMaLoMeLoId.TestMeLoIdValidity()
-  nameWithType: TestMaLoMeLoId.TestMeLoIdValidity()
-- uid: TestBO4E.TestMaLoMeLoId.TestMeLoIdValidity*
-  name: TestMeLoIdValidity
-  href: api/TestBO4E.TestMaLoMeLoId.html#TestBO4E_TestMaLoMeLoId_TestMeLoIdValidity_
-  commentId: Overload:TestBO4E.TestMaLoMeLoId.TestMeLoIdValidity
-  isSpec: "True"
-  fullName: TestBO4E.TestMaLoMeLoId.TestMeLoIdValidity
-  nameWithType: TestMaLoMeLoId.TestMeLoIdValidity
-- uid: TestBO4E.TestMaLoMeLoId.TestMeLoValidity
-  name: TestMeLoValidity()
-  href: api/TestBO4E.TestMaLoMeLoId.html#TestBO4E_TestMaLoMeLoId_TestMeLoValidity
-  commentId: M:TestBO4E.TestMaLoMeLoId.TestMeLoValidity
-  fullName: TestBO4E.TestMaLoMeLoId.TestMeLoValidity()
-  nameWithType: TestMaLoMeLoId.TestMeLoValidity()
-- uid: TestBO4E.TestMaLoMeLoId.TestMeLoValidity*
-  name: TestMeLoValidity
-  href: api/TestBO4E.TestMaLoMeLoId.html#TestBO4E_TestMaLoMeLoId_TestMeLoValidity_
-  commentId: Overload:TestBO4E.TestMaLoMeLoId.TestMeLoValidity
-  isSpec: "True"
-  fullName: TestBO4E.TestMaLoMeLoId.TestMeLoValidity
-  nameWithType: TestMaLoMeLoId.TestMeLoValidity
-- uid: TestBO4E.TestMultiLangJson
-  name: TestMultiLangJson
-  href: api/TestBO4E.TestMultiLangJson.html
-  commentId: T:TestBO4E.TestMultiLangJson
-  fullName: TestBO4E.TestMultiLangJson
-  nameWithType: TestMultiLangJson
-- uid: TestBO4E.TestMultiLangJson.MultiLangBo
-  name: TestMultiLangJson.MultiLangBo
-  href: api/TestBO4E.TestMultiLangJson.MultiLangBo.html
-  commentId: T:TestBO4E.TestMultiLangJson.MultiLangBo
-  fullName: TestBO4E.TestMultiLangJson.MultiLangBo
-  nameWithType: TestMultiLangJson.MultiLangBo
-- uid: TestBO4E.TestMultiLangJson.MultiLangBo.datum_deutsch
-  name: datum_deutsch
-  href: api/TestBO4E.TestMultiLangJson.MultiLangBo.html#TestBO4E_TestMultiLangJson_MultiLangBo_datum_deutsch
-  commentId: F:TestBO4E.TestMultiLangJson.MultiLangBo.datum_deutsch
-  fullName: TestBO4E.TestMultiLangJson.MultiLangBo.datum_deutsch
-  nameWithType: TestMultiLangJson.MultiLangBo.datum_deutsch
-- uid: TestBO4E.TestMultiLangJson.MultiLangBo.intern
-  name: intern
-  href: api/TestBO4E.TestMultiLangJson.MultiLangBo.html#TestBO4E_TestMultiLangJson_MultiLangBo_intern
-  commentId: F:TestBO4E.TestMultiLangJson.MultiLangBo.intern
-  fullName: TestBO4E.TestMultiLangJson.MultiLangBo.intern
-  nameWithType: TestMultiLangJson.MultiLangBo.intern
-- uid: TestBO4E.TestMultiLangJson.MultiLangBo.internList
-  name: internList
-  href: api/TestBO4E.TestMultiLangJson.MultiLangBo.html#TestBO4E_TestMultiLangJson_MultiLangBo_internList
-  commentId: F:TestBO4E.TestMultiLangJson.MultiLangBo.internList
-  fullName: TestBO4E.TestMultiLangJson.MultiLangBo.internList
-  nameWithType: TestMultiLangJson.MultiLangBo.internList
-- uid: TestBO4E.TestMultiLangJson.MultiLangBo.wert_deutsch
-  name: wert_deutsch
-  href: api/TestBO4E.TestMultiLangJson.MultiLangBo.html#TestBO4E_TestMultiLangJson_MultiLangBo_wert_deutsch
-  commentId: F:TestBO4E.TestMultiLangJson.MultiLangBo.wert_deutsch
-  fullName: TestBO4E.TestMultiLangJson.MultiLangBo.wert_deutsch
-  nameWithType: TestMultiLangJson.MultiLangBo.wert_deutsch
-- uid: TestBO4E.TestMultiLangJson.NestedObject
-  name: TestMultiLangJson.NestedObject
-  href: api/TestBO4E.TestMultiLangJson.NestedObject.html
-  commentId: T:TestBO4E.TestMultiLangJson.NestedObject
-  fullName: TestBO4E.TestMultiLangJson.NestedObject
-  nameWithType: TestMultiLangJson.NestedObject
-- uid: TestBO4E.TestMultiLangJson.NestedObject.bool_deutsch
-  name: bool_deutsch
-  href: api/TestBO4E.TestMultiLangJson.NestedObject.html#TestBO4E_TestMultiLangJson_NestedObject_bool_deutsch
-  commentId: F:TestBO4E.TestMultiLangJson.NestedObject.bool_deutsch
-  fullName: TestBO4E.TestMultiLangJson.NestedObject.bool_deutsch
-  nameWithType: TestMultiLangJson.NestedObject.bool_deutsch
-- uid: TestBO4E.TestMultiLangJson.NestedObject.int_deutsch
-  name: int_deutsch
-  href: api/TestBO4E.TestMultiLangJson.NestedObject.html#TestBO4E_TestMultiLangJson_NestedObject_int_deutsch
-  commentId: F:TestBO4E.TestMultiLangJson.NestedObject.int_deutsch
-  fullName: TestBO4E.TestMultiLangJson.NestedObject.int_deutsch
-  nameWithType: TestMultiLangJson.NestedObject.int_deutsch
-- uid: TestBO4E.TestMultiLangJson.NestedObject.intern_deutsch
-  name: intern_deutsch
-  href: api/TestBO4E.TestMultiLangJson.NestedObject.html#TestBO4E_TestMultiLangJson_NestedObject_intern_deutsch
-  commentId: F:TestBO4E.TestMultiLangJson.NestedObject.intern_deutsch
-  fullName: TestBO4E.TestMultiLangJson.NestedObject.intern_deutsch
-  nameWithType: TestMultiLangJson.NestedObject.intern_deutsch
-- uid: TestBO4E.TestMultiLangJson.TestContractResolverSerialization
-  name: TestContractResolverSerialization()
-  href: api/TestBO4E.TestMultiLangJson.html#TestBO4E_TestMultiLangJson_TestContractResolverSerialization
-  commentId: M:TestBO4E.TestMultiLangJson.TestContractResolverSerialization
-  fullName: TestBO4E.TestMultiLangJson.TestContractResolverSerialization()
-  nameWithType: TestMultiLangJson.TestContractResolverSerialization()
-- uid: TestBO4E.TestMultiLangJson.TestContractResolverSerialization*
-  name: TestContractResolverSerialization
-  href: api/TestBO4E.TestMultiLangJson.html#TestBO4E_TestMultiLangJson_TestContractResolverSerialization_
-  commentId: Overload:TestBO4E.TestMultiLangJson.TestContractResolverSerialization
-  isSpec: "True"
-  fullName: TestBO4E.TestMultiLangJson.TestContractResolverSerialization
-  nameWithType: TestMultiLangJson.TestContractResolverSerialization
-- uid: TestBO4E.TestMultiLangJson.TestNestedContractResolverSerialization
-  name: TestNestedContractResolverSerialization()
-  href: api/TestBO4E.TestMultiLangJson.html#TestBO4E_TestMultiLangJson_TestNestedContractResolverSerialization
-  commentId: M:TestBO4E.TestMultiLangJson.TestNestedContractResolverSerialization
-  fullName: TestBO4E.TestMultiLangJson.TestNestedContractResolverSerialization()
-  nameWithType: TestMultiLangJson.TestNestedContractResolverSerialization()
-- uid: TestBO4E.TestMultiLangJson.TestNestedContractResolverSerialization*
-  name: TestNestedContractResolverSerialization
-  href: api/TestBO4E.TestMultiLangJson.html#TestBO4E_TestMultiLangJson_TestNestedContractResolverSerialization_
-  commentId: Overload:TestBO4E.TestMultiLangJson.TestNestedContractResolverSerialization
-  isSpec: "True"
-  fullName: TestBO4E.TestMultiLangJson.TestNestedContractResolverSerialization
-  nameWithType: TestMultiLangJson.TestNestedContractResolverSerialization
-- uid: TestBO4E.TestNotizDeserialization
-  name: TestNotizDeserialization
-  href: api/TestBO4E.TestNotizDeserialization.html
-  commentId: T:TestBO4E.TestNotizDeserialization
-  fullName: TestBO4E.TestNotizDeserialization
-  nameWithType: TestNotizDeserialization
-- uid: TestBO4E.TestNotizDeserialization.TestMinusRemoval
-  name: TestMinusRemoval()
-  href: api/TestBO4E.TestNotizDeserialization.html#TestBO4E_TestNotizDeserialization_TestMinusRemoval
-  commentId: M:TestBO4E.TestNotizDeserialization.TestMinusRemoval
-  fullName: TestBO4E.TestNotizDeserialization.TestMinusRemoval()
-  nameWithType: TestNotizDeserialization.TestMinusRemoval()
-- uid: TestBO4E.TestNotizDeserialization.TestMinusRemoval*
-  name: TestMinusRemoval
-  href: api/TestBO4E.TestNotizDeserialization.html#TestBO4E_TestNotizDeserialization_TestMinusRemoval_
-  commentId: Overload:TestBO4E.TestNotizDeserialization.TestMinusRemoval
-  isSpec: "True"
-  fullName: TestBO4E.TestNotizDeserialization.TestMinusRemoval
-  nameWithType: TestNotizDeserialization.TestMinusRemoval
-- uid: TestBO4E.TestStringEnumConverter
-  name: TestStringEnumConverter
-  href: api/TestBO4E.TestStringEnumConverter.html
-  commentId: T:TestBO4E.TestStringEnumConverter
-  fullName: TestBO4E.TestStringEnumConverter
-  nameWithType: TestStringEnumConverter
-- uid: TestBO4E.TestStringEnumConverter.TestMengeneinheit
-  name: TestMengeneinheit()
-  href: api/TestBO4E.TestStringEnumConverter.html#TestBO4E_TestStringEnumConverter_TestMengeneinheit
-  commentId: M:TestBO4E.TestStringEnumConverter.TestMengeneinheit
-  fullName: TestBO4E.TestStringEnumConverter.TestMengeneinheit()
-  nameWithType: TestStringEnumConverter.TestMengeneinheit()
-- uid: TestBO4E.TestStringEnumConverter.TestMengeneinheit*
-  name: TestMengeneinheit
-  href: api/TestBO4E.TestStringEnumConverter.html#TestBO4E_TestStringEnumConverter_TestMengeneinheit_
-  commentId: Overload:TestBO4E.TestStringEnumConverter.TestMengeneinheit
-  isSpec: "True"
-  fullName: TestBO4E.TestStringEnumConverter.TestMengeneinheit
-  nameWithType: TestStringEnumConverter.TestMengeneinheit
-- uid: TestBO4E.TestUserProperties
-  name: TestUserProperties
-  href: api/TestBO4E.TestUserProperties.html
-  commentId: T:TestBO4E.TestUserProperties
-  fullName: TestBO4E.TestUserProperties
-  nameWithType: TestUserProperties
-- uid: TestBO4E.TestUserProperties.TestDeserialization
-  name: TestDeserialization()
-  href: api/TestBO4E.TestUserProperties.html#TestBO4E_TestUserProperties_TestDeserialization
-  commentId: M:TestBO4E.TestUserProperties.TestDeserialization
-  fullName: TestBO4E.TestUserProperties.TestDeserialization()
-  nameWithType: TestUserProperties.TestDeserialization()
-- uid: TestBO4E.TestUserProperties.TestDeserialization*
-  name: TestDeserialization
-  href: api/TestBO4E.TestUserProperties.html#TestBO4E_TestUserProperties_TestDeserialization_
-  commentId: Overload:TestBO4E.TestUserProperties.TestDeserialization
-  isSpec: "True"
-  fullName: TestBO4E.TestUserProperties.TestDeserialization
-  nameWithType: TestUserProperties.TestDeserialization
 - uid: TestBO4EExtensions
   name: TestBO4EExtensions
   href: api/TestBO4EExtensions.html
