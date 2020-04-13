@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Angebot.html",
-          "hash": "1/gd/bEOWk+TjEpXUABtHQ=="
+          "hash": "WUVrwi+IApzkq9KoiQhNGw=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Ansprechpartner.html",
-          "hash": "7DM1Eak7yNMhvpXZ+T075w=="
+          "hash": "7+iAYmhH/6aJQnWTaDW/Kg=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Benachrichtigung.html",
-          "hash": "PPBFvK0nBjgdktR/Z8y/IQ=="
+          "hash": "exo9LGQ+VIK3gWTRSpo4eA=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.BusinessObject.html",
-          "hash": "TfBjQyqdR6m1+UKgQKXuqw=="
+          "hash": "qsT1EBRB+zPds0qOg5sZIQ=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.EncryptedObject.html",
-          "hash": "aay6KbR2s5M+wQ9sluyrxA=="
+          "hash": "IYrk3hVcDb5Hcf55v22DwQ=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.EncryptedObjectAEAD.html",
-          "hash": "78OCTKlgqS9knAdsY1qHNg=="
+          "hash": "Gg/ulhHI+VWMUErsC9rwUw=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.EncryptedObjectPKCS7.html",
-          "hash": "HfmMSmuQo7JKRB+hKQwUgA=="
+          "hash": "Eu39PLlED8rpicjHVHBPwA=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.EncryptedObjectPublicKeyBox.html",
-          "hash": "lTyvPvqSfMaRnOhcKboRMQ=="
+          "hash": "ytsYIIhd3P3/9Cfd9q6eRw=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Energiemenge.html",
-          "hash": "n6hdso73DdGiXuA+n2AjKg=="
+          "hash": "yAi992BQ1+yp/ZaaWHcMcg=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Geschaeftspartner.html",
-          "hash": "lD01HHiaKTgjvJKG1piRKw=="
+          "hash": "jqdokjaWJXVdQWpSl9AUcw=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Kosten.html",
-          "hash": "pCjz/W/lyZoAtSfwMPSRxg=="
+          "hash": "YWZS+32ZAknBWL2OuCrwYQ=="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.LogObject.html",
-          "hash": "X0GjTqdNq9oCaoFLK/SBhg=="
+          "hash": "mquySIvUjIEwVwrzePGTsg=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Marktlokation.html",
-          "hash": "TawGGJqOH84jBVzPSgfkpg=="
+          "hash": "h64cljJKXpdL8kn11hpkcw=="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Marktteilnehmer.html",
-          "hash": "8GiEyaIKwX5Ci0NkyWY2RA=="
+          "hash": "uAGsBdc2RzDixvMlmAiAZQ=="
         }
       },
       "is_incremental": false,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Messlokation.html",
-          "hash": "dmPG3Z58JEacJbMxLDH5jA=="
+          "hash": "mDBdwAW5fSN5GuC+a2+xcg=="
         }
       },
       "is_incremental": false,
@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Preisblatt.html",
-          "hash": "kffKX+9unh1pk2btU8wRsg=="
+          "hash": "S5slNCkYb+hqz77MPX12Ig=="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.PreisblattDienstleistung.html",
-          "hash": "ICxp4Y883VwQABBy8U9eZQ=="
+          "hash": "AZPq5ZLrwJh28EcY4kPIOw=="
         }
       },
       "is_incremental": false,
@@ -213,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.PreisblattKonzessionsabgabe.html",
-          "hash": "JaTETnFbD4BEXz2OuJNk/w=="
+          "hash": "zcsmjeVAP7k4YTdHgZeePw=="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.PreisblattMessung.html",
-          "hash": "UbsJ6mvZNv7a5tSSOuH2ZQ=="
+          "hash": "awTaZWMM8osK2JdfSRQySA=="
         }
       },
       "is_incremental": false,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.PreisblattNetznutzung.html",
-          "hash": "4n+jLnn6UGY0Z06n0GZTjw=="
+          "hash": "j4Kd4eJBAfbb6L3DR4DC2w=="
         }
       },
       "is_incremental": false,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.PreisblattUmlagen.html",
-          "hash": "QcCSZgbDVi+tDROmw9O9zg=="
+          "hash": "eY7b2vWVsYnkTMM6CYHc6A=="
         }
       },
       "is_incremental": false,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Rechnung.html",
-          "hash": "rJ12bUOW6ro1t7UAp+ATLw=="
+          "hash": "PhYzDqBLnS74XIsI9x0AOw=="
         }
       },
       "is_incremental": false,
@@ -273,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Region.html",
-          "hash": "IwynkiGU0o4aeHGHkLywLw=="
+          "hash": "HFhG8g52ZDoJBn/3Eksstw=="
         }
       },
       "is_incremental": false,
@@ -285,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Vertrag.html",
-          "hash": "NB2WpSeW6L/2q7Y+k+OwnQ=="
+          "hash": "pZ0q5IcvXxrpX3R9NlFvgA=="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.Zaehler.html",
-          "hash": "qnl/t6366D+YondixIF/EA=="
+          "hash": "2Hnfa6oUH9qbQIxF/FXnvw=="
         }
       },
       "is_incremental": false,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BO.html",
-          "hash": "7LOdgtnY0GZD5xQcOa5tig=="
+          "hash": "D0NYBZJXWnqgoyNaNjgf8Q=="
         }
       },
       "is_incremental": false,
@@ -321,31 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BoEdiMapper.html",
-          "hash": "SEPtR2zCbovVr/z72phYyg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BO4E.BoMapper.LenientDateTimeConverter.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BO4E.BoMapper.LenientDateTimeConverter.html",
-          "hash": "I+sYYLUN+yJZ71tqQbJrgw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BO4E.BoMapper.UserPropertiesDataContractResolver.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BO4E.BoMapper.UserPropertiesDataContractResolver.html",
-          "hash": "7cYIJ7g+mmxCn8Sl6mvF8Q=="
+          "hash": "lL1WG5WYW/soAzO/tN2Y0Q=="
         }
       },
       "is_incremental": false,
@@ -357,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.BoMapper.html",
-          "hash": "ZWJVEBPOzEobTEN8su+GzA=="
+          "hash": "6K6ECAqs7LUL2g/6bM7oiA=="
         }
       },
       "is_incremental": false,
@@ -369,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Adresse.html",
-          "hash": "4H7bGuBQXCGh0JtHFQ0rAQ=="
+          "hash": "hCXjzxv8abv9cgaxRbj0Aw=="
         }
       },
       "is_incremental": false,
@@ -381,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Angebotsposition.html",
-          "hash": "Ve38ctz0MzofCX6DxE76iw=="
+          "hash": "f6wqWUyH24+ju5OZG/TM6w=="
         }
       },
       "is_incremental": false,
@@ -393,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Angebotsteil.html",
-          "hash": "e2tSljqTSKzcYj4Jt3q7RQ=="
+          "hash": "sxYARdYsIHM7Km4QtHUJoQ=="
         }
       },
       "is_incremental": false,
@@ -405,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Angebotsvariante.html",
-          "hash": "I23/Bja2ngVLSwmF7gzCJA=="
+          "hash": "uYrRH5gDEGjw+yQMvuELFw=="
         }
       },
       "is_incremental": false,
@@ -417,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.AufAbschlag.html",
-          "hash": "A5nzGCMOiVbboqaCtLWaXQ=="
+          "hash": "t3dLbgHr3oPskmW0b2nqFw=="
         }
       },
       "is_incremental": false,
@@ -429,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Aufgabe.html",
-          "hash": "ZaTbg84DAH5DT21EIHCAvQ=="
+          "hash": "stBKJvYI0BWwiaVmhCNpEQ=="
         }
       },
       "is_incremental": false,
@@ -441,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Ausschreibungsdetail.html",
-          "hash": "61CeclpWddjfJ1/J2EACDA=="
+          "hash": "uRONmCy0e4A9s8LTv+KxAA=="
         }
       },
       "is_incremental": false,
@@ -453,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Ausschreibungslos.html",
-          "hash": "TbPSFM4zpu/r1zeLYAQc9w=="
+          "hash": "Hg9PLTe7jurOWsit9bHq9A=="
         }
       },
       "is_incremental": false,
@@ -465,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Betrag.html",
-          "hash": "948Gz2uVs8xZjTf5Fjqosg=="
+          "hash": "tMpgpoRE/xtSezeu+mAEkg=="
         }
       },
       "is_incremental": false,
@@ -477,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.COM.html",
-          "hash": "xtX2P79ZcUOAXdb4JtLpQg=="
+          "hash": "sMIfInqE1KqjKL92cfp4qQ=="
         }
       },
       "is_incremental": false,
@@ -489,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Dienstleistung.html",
-          "hash": "zpiEhPu0CxpDWAfhayQDmA=="
+          "hash": "4bN5NIjTdtoPBD76c6BOlA=="
         }
       },
       "is_incremental": false,
@@ -501,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Energieherkunft.html",
-          "hash": "sXzUtzJpc7XdRruT/QFHww=="
+          "hash": "SICwAC8fYFOv8T7BTErmhQ=="
         }
       },
       "is_incremental": false,
@@ -513,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Energiemix.html",
-          "hash": "4VW2J2Xnueo+OmPEojKV1Q=="
+          "hash": "+O2zMOwvgp0q2EC/DucMKg=="
         }
       },
       "is_incremental": false,
@@ -525,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.GenericStringStringInfo.html",
-          "hash": "o2ovIpcLIynATFxCvk8PHw=="
+          "hash": "IHIxN9+t4t650sRaS8hPLg=="
         }
       },
       "is_incremental": false,
@@ -537,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Geokoordinaten.html",
-          "hash": "5+VNP+d/zvuXb7N0JzhbqA=="
+          "hash": "orpnIbGn6sqSnHWIeP54fQ=="
         }
       },
       "is_incremental": false,
@@ -549,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Geraet.html",
-          "hash": "8guH3d7C/tD2IKqjhpQ7Ng=="
+          "hash": "olakRPvg7za6D/n72fMmHA=="
         }
       },
       "is_incremental": false,
@@ -561,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Geraeteeigenschaften.html",
-          "hash": "c1HXv6IBj38XhIWUcumTTw=="
+          "hash": "p09TZS/UwOZRZT6taLxNOw=="
         }
       },
       "is_incremental": false,
@@ -573,7 +549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Hardware.html",
-          "hash": "6O1y+zB5WEHJcLliifLXkA=="
+          "hash": "yEPZuee6DRanr/7hKFnwIg=="
         }
       },
       "is_incremental": false,
@@ -585,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Katasteradresse.html",
-          "hash": "cpkhfu6QeMjtJ6bSlPoadg=="
+          "hash": "DAhxjUrkAFe6Vso27obb1w=="
         }
       },
       "is_incremental": false,
@@ -597,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Konzessionsabgabe.html",
-          "hash": "aYZsyJU+YDS9FeACun7aKA=="
+          "hash": "1hqPaaohQ34QJGyryoEIGA=="
         }
       },
       "is_incremental": false,
@@ -609,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Kostenblock.html",
-          "hash": "SWwPpw0n41LeTC4IM2Huaw=="
+          "hash": "9+vp9Ucps5boli698hlmZA=="
         }
       },
       "is_incremental": false,
@@ -621,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Kostenposition.html",
-          "hash": "Lk3G1oICJI4elc81iYwg9A=="
+          "hash": "EsQKWkcCJ2rDe9sJKwouuA=="
         }
       },
       "is_incremental": false,
@@ -633,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.KriteriumsWert.html",
-          "hash": "7PUV2UXJxxUqRDCiPi3rqQ=="
+          "hash": "ogOz1BgpFd+Mk6epHOFI6Q=="
         }
       },
       "is_incremental": false,
@@ -645,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Marktrolle.html",
-          "hash": "gHzuI1RPhEhYeivFxcHrfg=="
+          "hash": "pfeqfDgQd5UDeCXkjsPymg=="
         }
       },
       "is_incremental": false,
@@ -657,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Menge.html",
-          "hash": "dqyxbOKd21bkI94usjOsxA=="
+          "hash": "t929jp0RC8/UTGfkhHseSA=="
         }
       },
       "is_incremental": false,
@@ -669,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Messlokationszuordnung.html",
-          "hash": "WdGNCJQv5Z+lVbEoJ8LJ6Q=="
+          "hash": "BgscPeGLRhnwDGLc7+lrLA=="
         }
       },
       "is_incremental": false,
@@ -681,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Notiz.html",
-          "hash": "mucgAlZqYMBg0vopOMl2ig=="
+          "hash": "qE5DPAcFiVhPy/ybZc3QKw=="
         }
       },
       "is_incremental": false,
@@ -693,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.PhysikalischerWert.html",
-          "hash": "FV6cOIYb5vH9fBNNoE2L/g=="
+          "hash": "7YAzhOPxU1syiOQiJ52WZg=="
         }
       },
       "is_incremental": false,
@@ -705,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.PositionsAufAbschlag.html",
-          "hash": "Z6bP+LXk8Xc2KuL1sv6Q6Q=="
+          "hash": "ay7nM8E/GrlGppsHLKvaQg=="
         }
       },
       "is_incremental": false,
@@ -717,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Preis.html",
-          "hash": "CUCQiM9S4GD6Tj34iQlUZg=="
+          "hash": "TytT6b0Dm2Rn0hw7uMDR1Q=="
         }
       },
       "is_incremental": false,
@@ -729,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Preisgarantie.html",
-          "hash": "XImyB2a36BfsiOI2JS8Dpw=="
+          "hash": "Qsv479MxE+IgQEkEWHv/qA=="
         }
       },
       "is_incremental": false,
@@ -741,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Preisposition.html",
-          "hash": "7WhWwzemvReTDFRF/9EkLg=="
+          "hash": "k6NsWrz0Yp1iKJfsjU8hUw=="
         }
       },
       "is_incremental": false,
@@ -753,7 +729,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Preisstaffel.html",
-          "hash": "Nv7FtXmdTRtBL3nrnz78lw=="
+          "hash": "3nVIXtOHXL6P43abTwQ8Zg=="
         }
       },
       "is_incremental": false,
@@ -765,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Rechnungsposition.html",
-          "hash": "E3PCoG/LNgHWgGo6/PF5Xw=="
+          "hash": "63oN4wEe+LGMmmfiJ7tF9A=="
         }
       },
       "is_incremental": false,
@@ -777,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.RechnungspositionFlat.html",
-          "hash": "WwL7QifGBdP1ZiNb62yOhw=="
+          "hash": "uW77Phn9nem4VOEZSwkx3Q=="
         }
       },
       "is_incremental": false,
@@ -789,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.RegionaleGueltigkeit.html",
-          "hash": "LMpqE6n9G4KS+suKFQXDhw=="
+          "hash": "AVVPmvHNnLih2whZNEjWeQ=="
         }
       },
       "is_incremental": false,
@@ -801,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.RegionalePreisgarantie.html",
-          "hash": "StPrhpE5tTW9EKNbtYWzqw=="
+          "hash": "nRmDVF5y5NG+afLJi6ZcrA=="
         }
       },
       "is_incremental": false,
@@ -813,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.RegionalePreisstaffel.html",
-          "hash": "Ys4ETJrFhPg+qhWnxcYrxQ=="
+          "hash": "3NmD5mjN1gsFfZNKnUlGqA=="
         }
       },
       "is_incremental": false,
@@ -825,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.RegionaleTarifpreisposition.html",
-          "hash": "MrY7zMLGBlscw6Jc1aWG8A=="
+          "hash": "HEJb7N0VSNiWhGroUoZ4AQ=="
         }
       },
       "is_incremental": false,
@@ -837,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.RegionalerAufAbschlag.html",
-          "hash": "WtqG6wxb0ZMf7dIfNsigZA=="
+          "hash": "NBu4MiQ+xVUDPpYKM60tSw=="
         }
       },
       "is_incremental": false,
@@ -849,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Regionskriterium.html",
-          "hash": "O+WfMxywQCl4iqTeEXRWRQ=="
+          "hash": "gIvhR/z3UgKuqyGwMfoEyw=="
         }
       },
       "is_incremental": false,
@@ -861,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Rufnummer.html",
-          "hash": "Df2jZOI8lznQrSf4smZcfA=="
+          "hash": "XI9SnxjS3vXNPUIR3Kq8qg=="
         }
       },
       "is_incremental": false,
@@ -873,7 +849,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Sigmoidparameter.html",
-          "hash": "lRQ/OQH1ULFPfUZj5Fzdow=="
+          "hash": "EIh2/D72FAfc7AugfC6IPA=="
         }
       },
       "is_incremental": false,
@@ -885,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Steuerbetrag.html",
-          "hash": "dbmotlc1aJSJDcteV2upow=="
+          "hash": "DS49SieNOxZe4VXeXnWDWA=="
         }
       },
       "is_incremental": false,
@@ -897,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Tarifberechnungsparameter.html",
-          "hash": "XDytJKNEe3JCOv5FlJ5KuQ=="
+          "hash": "wICBeACjmgBHX5M36WlSKg=="
         }
       },
       "is_incremental": false,
@@ -909,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Tarifeinschraenkung.html",
-          "hash": "JHmMR4VsFjJKmQ/+iSrsPw=="
+          "hash": "/3Rm2sGCyHteTS4byQAObA=="
         }
       },
       "is_incremental": false,
@@ -921,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Tarifpreisposition.html",
-          "hash": "mH6pGU95djDI28erOoCMGQ=="
+          "hash": "WgiyvJlz1cURH2qe9kQb/g=="
         }
       },
       "is_incremental": false,
@@ -933,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Unterschrift.html",
-          "hash": "PlwRSFSG3aATbrrADX7Rng=="
+          "hash": "GTxXORqwz8GsjFhe7fOtcA=="
         }
       },
       "is_incremental": false,
@@ -945,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Verbrauch.SapTimezone.html",
-          "hash": "GApxnOETMlM0aLtu0QaCEQ=="
+          "hash": "QiJOJCHf2clvNlHbliT1gw=="
         }
       },
       "is_incremental": false,
@@ -957,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Verbrauch.html",
-          "hash": "Gf6HlcVYPosfxMa7qPubEw=="
+          "hash": "YPmCld3G6LUtYV05MNEvjA=="
         }
       },
       "is_incremental": false,
@@ -969,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Vertragskonditionen.html",
-          "hash": "2tfIXRDFYdEItIN7p/oX5Q=="
+          "hash": "KaYwG9kVcNHQR/lTSa5SLg=="
         }
       },
       "is_incremental": false,
@@ -981,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Vertragsteil.html",
-          "hash": "7X9Y+Va4EqN24iiO8UACSw=="
+          "hash": "ZeWAo3sD/XKQwMF1j2sCnw=="
         }
       },
       "is_incremental": false,
@@ -993,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Zaehlwerk.html",
-          "hash": "hlx8yGEBWoslFf81LmQY0Q=="
+          "hash": "GuOBERThZGJpOkFcRbDKrA=="
         }
       },
       "is_incremental": false,
@@ -1005,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Zeitraum.html",
-          "hash": "EW5Lj4s3n0zty0Qcyc9x5Q=="
+          "hash": "opCYXhTNzSolRg0zUdWwCw=="
         }
       },
       "is_incremental": false,
@@ -1017,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.Zustaendigkeit.html",
-          "hash": "742z0ltzISqW+YtjYJ4mfw=="
+          "hash": "9TGIzwvxHs5TE1LY4vpJpA=="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.COM.html",
-          "hash": "H0CUe+QzuiQjv9hV+bqL1w=="
+          "hash": "ZEc2OkAGGxr8uOBoekeOpQ=="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1017,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.AbgabeArt.html",
-          "hash": "4GS9zWnxhy0VG4d74usWew=="
+          "hash": "mw9X4h89BKFAt/BkgLMJJA=="
         }
       },
       "is_incremental": false,
@@ -1053,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Angebotsstatus.html",
-          "hash": "FsnBpAVKoVfnm0EWTkhcMg=="
+          "hash": "DfLKEepFkEeBSUVaEtZRQg=="
         }
       },
       "is_incremental": false,
@@ -1065,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Anrede.html",
-          "hash": "BBSP/q6iNnpHVMGN/gmNSw=="
+          "hash": "lb2CMHW2PhJJdUOKugEEyw=="
         }
       },
       "is_incremental": false,
@@ -1077,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.ArithmetischeOperation.html",
-          "hash": "50WVlUTglkUY7Bv01slC9g=="
+          "hash": "AbwJAwk0bqGuoFBJZlmylA=="
         }
       },
       "is_incremental": false,
@@ -1089,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.AufAbschlagstyp.html",
-          "hash": "XMxBDZO0cr5C6Kf/htaEIg=="
+          "hash": "UOxmZPBh88NmmeiAEbzGMg=="
         }
       },
       "is_incremental": false,
@@ -1101,7 +1077,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.AufAbschlagsziel.html",
-          "hash": "dgrbOuVXrC//sEciOyd8vw=="
+          "hash": "bxa5XewBSC3pWyemsvpZ6A=="
         }
       },
       "is_incremental": false,
@@ -1113,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Ausschreibungsportal.html",
-          "hash": "dDojV7okbXbDgcmGGgxFNQ=="
+          "hash": "BfmXN4U/zW5rM+zmIMGa5w=="
         }
       },
       "is_incremental": false,
@@ -1125,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Ausschreibungsstatus.html",
-          "hash": "HiCCL891NIFsXQYE0H0ISw=="
+          "hash": "vTSLsRJwM4hjut4uK/YCCA=="
         }
       },
       "is_incremental": false,
@@ -1137,7 +1113,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Ausschreibungstyp.html",
-          "hash": "UvYlog2NShogqfzYmUfWTg=="
+          "hash": "GiG7rdmaPEuYa3brTn6Obw=="
         }
       },
       "is_incremental": false,
@@ -1149,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.BDEWArtikelnummer.html",
-          "hash": "TYlgukbyisUuVOcI/6fG3g=="
+          "hash": "/WzDFxBEbPYr9cP2ccXSWg=="
         }
       },
       "is_incremental": false,
@@ -1161,7 +1137,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Bearbeitungsstatus.html",
-          "hash": "flVJ7TLzteGfo1cYkButiA=="
+          "hash": "6J/y1YR0UVmZwwrnrQzImQ=="
         }
       },
       "is_incremental": false,
@@ -1173,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Bemessungsgroesse.html",
-          "hash": "dIBNPjtE0xaC9WQ2taY//w=="
+          "hash": "x0TqBxk1AD+8JJOnfQax9A=="
         }
       },
       "is_incremental": false,
@@ -1185,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Bilanzierungsmethode.html",
-          "hash": "bvfmveLF+7EWZMrIgAA2EA=="
+          "hash": "K8xJzRGB+5BxnrldfXv+hQ=="
         }
       },
       "is_incremental": false,
@@ -1197,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.BoTyp.html",
-          "hash": "GGHPvgDUnKT+sLb+ALz/PQ=="
+          "hash": "BoSj8R0Atj3nrT2AcRhWzA=="
         }
       },
       "is_incremental": false,
@@ -1209,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Dienstleistungstyp.html",
-          "hash": "OF783QDJWTcsfzdwUTvHYw=="
+          "hash": "uE3jZTSj49j+U97mTwIv1A=="
         }
       },
       "is_incremental": false,
@@ -1221,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.BDEWArtikelnummerEdi.html",
-          "hash": "bpMZxN6U3yijO6AB3iaq7w=="
+          "hash": "wU1ffUuqowNcqQ8/7UsYzQ=="
         }
       },
       "is_incremental": false,
@@ -1233,7 +1209,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.EnergierichtungEdi.html",
-          "hash": "xaK/OjohcPi8ZMj55mNHNA=="
+          "hash": "4AmDll3LJSPbCDyk/PJGpQ=="
         }
       },
       "is_incremental": false,
@@ -1245,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.GeraetetypEdi.html",
-          "hash": "5Cfn6VsnRDeZg1jTPSsj8g=="
+          "hash": "Q9SMgCXQZQT7+2fLsSTYNw=="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1233,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.GeschaeftspartnerrolleEdi.html",
-          "hash": "mrcDJ2VTul8wlC5lzUFaWQ=="
+          "hash": "P9FhoNTjOoh/m92bG9+v8A=="
         }
       },
       "is_incremental": false,
@@ -1269,7 +1245,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.KontaktartEdi.html",
-          "hash": "ndjhRYEZcRzPfRx03qgPmA=="
+          "hash": "T2IB0G1h22r1Lvlrn6rJqg=="
         }
       },
       "is_incremental": false,
@@ -1281,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.NetzebeneEdi.html",
-          "hash": "oGPZaUsw3Z3lwn/4DPB42w=="
+          "hash": "lq4SXeZl1LNaYaJukAf6Sw=="
         }
       },
       "is_incremental": false,
@@ -1293,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.NetznutzungsabrechnungsgrundlageEdi.html",
-          "hash": "HRAvDK06s8eWHyAp3DVaIw=="
+          "hash": "sz3S8cPEOmm5MqHO6QRzyA=="
         }
       },
       "is_incremental": false,
@@ -1305,7 +1281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.NetznutzungsabrechnungsvarianteEdi.html",
-          "hash": "q5BBvLQAE8GQsAIw6iu1nw=="
+          "hash": "jNqDPZO2SiuXK7EFT04ZGQ=="
         }
       },
       "is_incremental": false,
@@ -1317,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.NetznutzungsvertragEdi.html",
-          "hash": "onjOequQRHGyyn85MUtwbQ=="
+          "hash": "jMpEOmP3dYgS6pHmBLkzaA=="
         }
       },
       "is_incremental": false,
@@ -1329,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.NetznutzungszahlerEdi.html",
-          "hash": "9ielEoWTFnEvD9EJX6jcUQ=="
+          "hash": "3XyILklfh9W+bEifRu28iQ=="
         }
       },
       "is_incremental": false,
@@ -1341,7 +1317,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.RollencodetypEdi.html",
-          "hash": "oKxHn2vVj/qXhSOM/Stjqg=="
+          "hash": "jfbqOOuOoboOjrjJtYRePQ=="
         }
       },
       "is_incremental": false,
@@ -1353,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.TarifartEdi.html",
-          "hash": "vm7rpF6oFBT1jGEj6R8CfQ=="
+          "hash": "YBhOyvWlLlkIfXtT7u09Qg=="
         }
       },
       "is_incremental": false,
@@ -1365,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.UTILMD.UTILMD7433.html",
-          "hash": "OP8iJggfXgNv5U2DSfcf8w=="
+          "hash": "QE1cVTaWLL0uD4mX0h26Vw=="
         }
       },
       "is_incremental": false,
@@ -1377,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.UTILMD.UTILMD9013.html",
-          "hash": "h3w8727mlIUOquRMo8izlA=="
+          "hash": "Wamdbd3IQFaOd9gr12RTgg=="
         }
       },
       "is_incremental": false,
@@ -1389,7 +1365,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.UTILMD.html",
-          "hash": "kXUHbg60umNN4X+xSyLysg=="
+          "hash": "6CSIEA6tE8F3YJ1zTpuI9Q=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1377,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.VerbrauchsartEdi.html",
-          "hash": "2jeIAFTpfsv3tdxuKy2DLg=="
+          "hash": "gr+Hg0JcMK6NkEXLA+YM0g=="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.WaehrungseinheitEdi.html",
-          "hash": "Ac2HBL9ES/AYmosfdJkWRw=="
+          "hash": "YOdG88h/R7Xc1p9bbSe1qg=="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.WertermittlungsverfahrenEdi.html",
-          "hash": "/tejtohoy/1R/kw92tGVLA=="
+          "hash": "F5jfWP9KJAt+WbkXKA03rw=="
         }
       },
       "is_incremental": false,
@@ -1437,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.ZaehlerauspraegungEdi.html",
-          "hash": "aD/zwL0OI7Jw8JwhFcqKUg=="
+          "hash": "/ctwxK0mwQ6uWpdIEe9dHw=="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.ZaehlertypEdi.html",
-          "hash": "ybWnkHX9++chx6SDiFKlJg=="
+          "hash": "KW1n67ezwM6bRk6Bydl8Kw=="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.ZeiteinheitEdi.html",
-          "hash": "z+1VA/hBGoGkfF+n+Dl1vQ=="
+          "hash": "4/f695BkMQROFxSGuRaNMw=="
         }
       },
       "is_incremental": false,
@@ -1473,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EDI.html",
-          "hash": "zKFGq49h/X7FjSppA6VI+g=="
+          "hash": "e/nsrTfli4TqVr4NH6RS7A=="
         }
       },
       "is_incremental": false,
@@ -1485,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.EncryptionScheme.html",
-          "hash": "rP1WXCAjPEUoCMx74fLtAA=="
+          "hash": "aZUZt21e8Hnq7Wq2XB1v1A=="
         }
       },
       "is_incremental": false,
@@ -1497,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Energierichtung.html",
-          "hash": "S848qGEbHDmt39KHX4OenQ=="
+          "hash": "cza/v6AIeeG3Kfldv8htmw=="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1485,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Erzeugungsart.html",
-          "hash": "1LtQH92aVBFgTFyqqV2KQA=="
+          "hash": "kRo19YzfdpWfrK9jtRWgSQ=="
         }
       },
       "is_incremental": false,
@@ -1521,7 +1497,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Fernschaltung.html",
-          "hash": "Esd7DG5cDKfDgomwVCTTkw=="
+          "hash": "wV5uD1AS+pRt0Z/pzyhVdQ=="
         }
       },
       "is_incremental": false,
@@ -1533,7 +1509,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.FernschaltungEdi.html",
-          "hash": "CzEfSfArGvF7LsX/A90AxA=="
+          "hash": "WXR4YYqgyBMJO3OcagbZ+w=="
         }
       },
       "is_incremental": false,
@@ -1545,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Gasqualitaet.html",
-          "hash": "s4bl+mxbjL0RLIAd51EC5Q=="
+          "hash": "nbO+/MWO9qLzCensBzzDPw=="
         }
       },
       "is_incremental": false,
@@ -1557,7 +1533,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Gebiettyp.html",
-          "hash": "qe179hCvnaXLmtF0Kj6KLg=="
+          "hash": "ZK7blLaPdj3ZZ6famyBawQ=="
         }
       },
       "is_incremental": false,
@@ -1569,7 +1545,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Geraetemerkmal.html",
-          "hash": "xVby1PZmHeo3TldZb4pZ6g=="
+          "hash": "KO4HAybATMNCiEHNc38AaA=="
         }
       },
       "is_incremental": false,
@@ -1581,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Geraetetyp.html",
-          "hash": "F6BcK2joIG7exGqrvzxrZQ=="
+          "hash": "VakAEnSmyAu+yqJM2vfJXw=="
         }
       },
       "is_incremental": false,
@@ -1593,7 +1569,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Geschaeftspartnerrolle.html",
-          "hash": "YqEpOasRtsaB/Sfe7+dO+A=="
+          "hash": "NXvDQ6HWjea2e8VjLU2LqA=="
         }
       },
       "is_incremental": false,
@@ -1605,7 +1581,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Gueltigkeitstyp.html",
-          "hash": "aewP3bbyaaeBpH7QIIXfRQ=="
+          "hash": "j5aQYfAYCBHXna8PFG3Heg=="
         }
       },
       "is_incremental": false,
@@ -1617,7 +1593,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Kalkulationsmethode.html",
-          "hash": "yeLxMeXuGN4GHImjjgRxhg=="
+          "hash": "U73b1muL3ee59mgD1VFkdg=="
         }
       },
       "is_incremental": false,
@@ -1629,7 +1605,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Kontaktart.html",
-          "hash": "PTViPwtVGdd72etD767+Mg=="
+          "hash": "m4HAMfO37kIJIog7/oEeLw=="
         }
       },
       "is_incremental": false,
@@ -1641,7 +1617,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Kostenklasse.html",
-          "hash": "iZcklBlL/fuv5xMSRH9OrA=="
+          "hash": "/FZRX4rFuHpjN4Gtd2nHpg=="
         }
       },
       "is_incremental": false,
@@ -1653,7 +1629,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Kundengruppe.html",
-          "hash": "N0LLDyEIKTQQj+YjtEsSVQ=="
+          "hash": "01NYzPQCsPF+lq49mXUBNw=="
         }
       },
       "is_incremental": false,
@@ -1665,7 +1641,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.KundengruppeKA.html",
-          "hash": "GATCb7EF3odJr8ozMi0VqA=="
+          "hash": "TJmXEAtudAT9MvGAgokPfg=="
         }
       },
       "is_incremental": false,
@@ -1677,7 +1653,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Kundentyp.html",
-          "hash": "b3h3cZZioq0PVnjEAvPc0g=="
+          "hash": "qvCyN7eQrxBjV6jdUI8j1Q=="
         }
       },
       "is_incremental": false,
@@ -1689,7 +1665,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Landescode.html",
-          "hash": "55l0opMRGeGM22FZpRc13Q=="
+          "hash": "3kjFPInl002ElJKo/deYQw=="
         }
       },
       "is_incremental": false,
@@ -1701,7 +1677,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Leistungstyp.html",
-          "hash": "KhM4jjG0tIVdW9Wmz9PK+A=="
+          "hash": "aKLaq6EB7U2RZ2JfXCCSfg=="
         }
       },
       "is_incremental": false,
@@ -1713,7 +1689,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Lokationstyp.html",
-          "hash": "fac6Jfu8ndAhpqdyfcrOzw=="
+          "hash": "F1zgHy00Oc5BYikf+xe+Xg=="
         }
       },
       "is_incremental": false,
@@ -1725,7 +1701,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Marktrolle.html",
-          "hash": "YHu7EN38nk03STehjoOdNw=="
+          "hash": "yIwnq84ZZRfJkFfsIK1QHA=="
         }
       },
       "is_incremental": false,
@@ -1737,7 +1713,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Mengeneinheit.html",
-          "hash": "JhbazqcoFczREYEfHzNWQQ=="
+          "hash": "+v6uLMbut0XApNEMV1vxVw=="
         }
       },
       "is_incremental": false,
@@ -1749,7 +1725,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Mengenoperator.html",
-          "hash": "SrF98vT9+gr9HYjbbSektA=="
+          "hash": "sTKombgdfmo9WeV/GqSaGQ=="
         }
       },
       "is_incremental": false,
@@ -1761,7 +1737,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Messpreistyp.html",
-          "hash": "pkRuqs5syqlxKprz+3wd7g=="
+          "hash": "tAVjJ04lnPLXCCL4H1bOrg=="
         }
       },
       "is_incremental": false,
@@ -1773,7 +1749,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Messwerterfassung.html",
-          "hash": "2ctAuOov/40tLe3m+Jmsww=="
+          "hash": "GbxVUdh3i9WsOgz4W5uGUQ=="
         }
       },
       "is_incremental": false,
@@ -1785,7 +1761,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.MesswerterfassungEdi.html",
-          "hash": "ItarMzxVI6VwUK1obkUxtg=="
+          "hash": "xiFQmVzuIj3mwJvKGF7ehw=="
         }
       },
       "is_incremental": false,
@@ -1797,7 +1773,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.NNRechnungsart.html",
-          "hash": "m1t+YKlxcekBB7tFG5XMkA=="
+          "hash": "dIRoVoYkeP2V6lqa72u+Gg=="
         }
       },
       "is_incremental": false,
@@ -1809,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.NNRechnungstyp.html",
-          "hash": "UcgFyNnuzU+7jpRKtyQrbQ=="
+          "hash": "MzMTS2xpYpp5pv5RKpD3mQ=="
         }
       },
       "is_incremental": false,
@@ -1821,7 +1797,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Netzebene.html",
-          "hash": "fQrXtz2EnOBTIrgt306rVg=="
+          "hash": "TjmxiwHNPYKfZc/NN0SatQ=="
         }
       },
       "is_incremental": false,
@@ -1833,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.NetznutzungsVertrag.html",
-          "hash": "o3QJGLfvNlw+kB/elHApsQ=="
+          "hash": "N70E1LKNlkNUdtGMEi3uNg=="
         }
       },
       "is_incremental": false,
@@ -1845,7 +1821,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Netznutzungsabrechnungsgrundlage.html",
-          "hash": "VSCTNdRJoc6LB5ZaqJes7Q=="
+          "hash": "uHKo9jqvAPCc+xEHtRzI7A=="
         }
       },
       "is_incremental": false,
@@ -1857,7 +1833,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Netznutzungsabrechnungsvariante.html",
-          "hash": "WyQCDFfBBKAbIPc3eGdLJw=="
+          "hash": "3RwEvbeWuU1nAiylChtucw=="
         }
       },
       "is_incremental": false,
@@ -1869,7 +1845,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Netznutzungszahler.html",
-          "hash": "2bXOpp6hD9Zkb4aK+grs8w=="
+          "hash": "+d+k2PsdRh2G1ONfZX2MXA=="
         }
       },
       "is_incremental": false,
@@ -1881,7 +1857,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Oekolabel.html",
-          "hash": "wgZrM34Ad4sZXz0W7YCm1w=="
+          "hash": "cuRDnklROCJ/VEGCsssqBg=="
         }
       },
       "is_incremental": false,
@@ -1893,7 +1869,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Oekozertifikat.html",
-          "hash": "Qkj77Pce0aEmd8IPlvoFEQ=="
+          "hash": "WaVc8vDSvkz5lptEzzVFwA=="
         }
       },
       "is_incremental": false,
@@ -1905,7 +1881,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Preisgarantietyp.html",
-          "hash": "ce/kFknjx/Mo+Vb4ZAGgDQ=="
+          "hash": "HIQSTNCoSF059ryzPE7jhw=="
         }
       },
       "is_incremental": false,
@@ -1917,7 +1893,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Preismodell.html",
-          "hash": "9b56ooKH7TQvOaMjZaGkbQ=="
+          "hash": "R50sUZniOBqqrrlah4lXLQ=="
         }
       },
       "is_incremental": false,
@@ -1929,7 +1905,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Preisstatus.html",
-          "hash": "F1ug4wgBK+D70eAJ9NcmQg=="
+          "hash": "ZraYhhMWsk3gtTXknFAnXQ=="
         }
       },
       "is_incremental": false,
@@ -1941,7 +1917,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Preistyp.html",
-          "hash": "B3CwGxP4Otrd5zCiLuXfzw=="
+          "hash": "qHyl4lsxXVPzzm5+GfQTcw=="
         }
       },
       "is_incremental": false,
@@ -1953,7 +1929,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Prioritaet.html",
-          "hash": "lUkw8J5vUlTZ0JrinBYPoQ=="
+          "hash": "3eC4GnI6a8JYfcrTGCujVQ=="
         }
       },
       "is_incremental": false,
@@ -1965,7 +1941,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Rechnungslegung.html",
-          "hash": "tvQzsUOSljywkKsRDWN+Xw=="
+          "hash": "L26lDW9VndlsmW2n6PLcdA=="
         }
       },
       "is_incremental": false,
@@ -1977,7 +1953,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.RechnungspositionsStatus.html",
-          "hash": "STCS0aD0NfVJrag/UHTVdQ=="
+          "hash": "lpL3ZGMw0D1mY9eyc58grA=="
         }
       },
       "is_incremental": false,
@@ -1989,7 +1965,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Rechnungsstatus.html",
-          "hash": "fWHUqKp1QZYINz0EcEEmMw=="
+          "hash": "nRztxAkiWT2kmi9LTQseKQ=="
         }
       },
       "is_incremental": false,
@@ -2001,7 +1977,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Rechnungstyp.html",
-          "hash": "BaW0sHFuV63s0kecuQO1OA=="
+          "hash": "9ZPIEWyY505rfwiq/M4vXQ=="
         }
       },
       "is_incremental": false,
@@ -2013,7 +1989,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Regionskriteriumtyp.html",
-          "hash": "rVfDAvHwXw+0iZqafV3Eng=="
+          "hash": "6deaLsOe7qv/okajqUYAnQ=="
         }
       },
       "is_incremental": false,
@@ -2025,7 +2001,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Rollencodetyp.html",
-          "hash": "q0oLctTdvAihkAXzDdvfUA=="
+          "hash": "M9qJ4mdn7eGCa2qtz07rcA=="
         }
       },
       "is_incremental": false,
@@ -2037,7 +2013,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Rufnummernart.html",
-          "hash": "HoZQ37P20PTUwXQxe2tJJA=="
+          "hash": "9BiXapgU/0KIcx6OX3qLsg=="
         }
       },
       "is_incremental": false,
@@ -2049,7 +2025,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Schwachlastfaehig.html",
-          "hash": "6ITLE7YcEaksA7FbDF/fwQ=="
+          "hash": "3j1V3BSMvt+8apW8yt2d0w=="
         }
       },
       "is_incremental": false,
@@ -2061,7 +2037,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.SchwachlastfaehigEdi.html",
-          "hash": "dnRMj03sxD6JRnAZuX7G7w=="
+          "hash": "C4hN/G/qYOxgI9nCbNCIiA=="
         }
       },
       "is_incremental": false,
@@ -2073,7 +2049,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Servicetyp.html",
-          "hash": "rFeyVyySdsg7q/goWIj8Qw=="
+          "hash": "MOk3el2ypuJtDFZG7y6+oQ=="
         }
       },
       "is_incremental": false,
@@ -2085,7 +2061,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Sparte.html",
-          "hash": "kT2nznxDssVc7n7kCWyNpw=="
+          "hash": "4fWJW5YGQAvV0aon7krpRQ=="
         }
       },
       "is_incremental": false,
@@ -2097,7 +2073,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Steuerkennzeichen.html",
-          "hash": "LavGVxYv4frrwaPpVUjQdQ=="
+          "hash": "GP01OfSYD193RoolY/aBCA=="
         }
       },
       "is_incremental": false,
@@ -2109,7 +2085,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Tarifart.html",
-          "hash": "ieFLe67kOmTkpQVtkJAXpg=="
+          "hash": "F2s4qFKzAIKsD/yh3A+n3g=="
         }
       },
       "is_incremental": false,
@@ -2121,7 +2097,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Tarifkalkulationsmethode.html",
-          "hash": "tLd/pMw6d5Lkxe86uhGuiw=="
+          "hash": "rxIUlo0Ft1NKgJSf1C9Xfg=="
         }
       },
       "is_incremental": false,
@@ -2133,7 +2109,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Tarifmerkmal.html",
-          "hash": "ys2Qzbuc6wjYOl30/RHiPQ=="
+          "hash": "pHEzbpdjG41UO3LyiYdB0g=="
         }
       },
       "is_incremental": false,
@@ -2145,7 +2121,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Tarifregionskriterium.html",
-          "hash": "AJb/AyNlPNN4+rMrueUOGw=="
+          "hash": "Vo/uyc6NERsKGMLDswcq4w=="
         }
       },
       "is_incremental": false,
@@ -2157,7 +2133,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Tariftyp.html",
-          "hash": "CPxh8HfudxZNDd/tyI0FoA=="
+          "hash": "iySVWmx6qorcqO/jZ4ln3w=="
         }
       },
       "is_incremental": false,
@@ -2169,7 +2145,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Tarifzeit.html",
-          "hash": "V6qQ32QPLmB9tFq2qRA01A=="
+          "hash": "SC8rG3hfVq9j392BJ0DfOQ=="
         }
       },
       "is_incremental": false,
@@ -2181,7 +2157,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Themengebiet.html",
-          "hash": "V99t2ksxQwr4DMYhF6iFEg=="
+          "hash": "f+2bWG86Qw4a+08KGMcgqQ=="
         }
       },
       "is_incremental": false,
@@ -2193,7 +2169,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Titel.html",
-          "hash": "msiuWF324P7gCJr1u3DKkA=="
+          "hash": "ijhtqaIGGlyNRT8NtJtxzg=="
         }
       },
       "is_incremental": false,
@@ -2205,7 +2181,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Unterbrechbarkeit.html",
-          "hash": "Q6kjlvHyNsUlgWleVxzitg=="
+          "hash": "70C4zC9Kz99cG68vsLmPTg=="
         }
       },
       "is_incremental": false,
@@ -2217,7 +2193,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.UnterbrechbarkeitEdi.html",
-          "hash": "NG0CeScTmN/i09ng6WbpRw=="
+          "hash": "LKulgptuegqbVJV4CerpCw=="
         }
       },
       "is_incremental": false,
@@ -2229,7 +2205,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Verbrauchsart.html",
-          "hash": "olRGJq+p04+hSSkaNXJZVA=="
+          "hash": "5eTatFJJOyoWJrg3pYWf4Q=="
         }
       },
       "is_incremental": false,
@@ -2241,7 +2217,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Verbrauchsmengetyp.html",
-          "hash": "c5t9aJvdRwUs6DhXx5SoHw=="
+          "hash": "FW0g19upSm6UdOX88TLDEg=="
         }
       },
       "is_incremental": false,
@@ -2253,7 +2229,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Vertragsart.html",
-          "hash": "ZkZoNx9XGU7NywpQeQEWxQ=="
+          "hash": "1dSav6D2F6129yDRmJfQIw=="
         }
       },
       "is_incremental": false,
@@ -2265,7 +2241,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Vertragsform.html",
-          "hash": "vxJgsvNhkJPzMj3NGoitfw=="
+          "hash": "HAaqAwv+2XuAoKY1Xxn+Lg=="
         }
       },
       "is_incremental": false,
@@ -2277,7 +2253,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Vertragstatus.html",
-          "hash": "4Bf9mAeta3Ss2JXb8dHizA=="
+          "hash": "rNINSyY8bDSZhtfLZMceSw=="
         }
       },
       "is_incremental": false,
@@ -2289,7 +2265,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Verwendungszweck.html",
-          "hash": "sf6iSOqZ/bDMFbM7XvIUNg=="
+          "hash": "38sO939rlbDZrFbCUN532w=="
         }
       },
       "is_incremental": false,
@@ -2301,7 +2277,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.VerwendungszweckEdi.html",
-          "hash": "oQOFT67Brzb8OfFQszvuEQ=="
+          "hash": "e5ND3Ob+qLk130ZQO/A+Fg=="
         }
       },
       "is_incremental": false,
@@ -2313,7 +2289,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Voraussetzungen.html",
-          "hash": "Zm5m8ADV0ibyzFngmhEcGA=="
+          "hash": "uxzL14Qpf9boh/zsA5H3RA=="
         }
       },
       "is_incremental": false,
@@ -2325,7 +2301,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Waehrungscode.html",
-          "hash": "Bk0VXe7TofYwuOK20kpA4Q=="
+          "hash": "TpGWVk4WDawo49QZPEC/UQ=="
         }
       },
       "is_incremental": false,
@@ -2337,7 +2313,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Waehrungseinheit.html",
-          "hash": "E2ZC58SMmfVkjMLN0HuKuw=="
+          "hash": "lu9lveOyBbCZVmgdvMDHZA=="
         }
       },
       "is_incremental": false,
@@ -2349,7 +2325,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Waermenutzung.html",
-          "hash": "xiF8+dXSs/WgpmnI+sN++A=="
+          "hash": "n1UuSkKRiRfTTYNBk6c7LA=="
         }
       },
       "is_incremental": false,
@@ -2361,7 +2337,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.WaermenutzungEdi.html",
-          "hash": "NR+phjvDTnGi3hKnUUm0lA=="
+          "hash": "rhdqlJuFy1Zws11ifZEu6w=="
         }
       },
       "is_incremental": false,
@@ -2373,7 +2349,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Wertermittlungsverfahren.html",
-          "hash": "sb7zZ3gzbC7YqWfZHCew/A=="
+          "hash": "sR21F637QcaVJ5ilyOQHIw=="
         }
       },
       "is_incremental": false,
@@ -2385,7 +2361,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Zaehlerauspraegung.html",
-          "hash": "qGsr/APFZaqVrq9HOCKJBA=="
+          "hash": "4uK+1lc0mfd8wVP8PyN8uw=="
         }
       },
       "is_incremental": false,
@@ -2397,7 +2373,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Zaehlertyp.html",
-          "hash": "VmSmfVSq/qQK58RBPJS+gQ=="
+          "hash": "UNiuigiiPYOwpWt51LWNkg=="
         }
       },
       "is_incremental": false,
@@ -2409,7 +2385,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Zeiteinheit.html",
-          "hash": "RKYcqdczFnCMiJJfw5lf/w=="
+          "hash": "zMQtvXEL3JfLldBEexCoWQ=="
         }
       },
       "is_incremental": false,
@@ -2421,7 +2397,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.Zeitreihentyp.html",
-          "hash": "qyr/ZDh4sBT8QHUznnEYbA=="
+          "hash": "WK8ELSQaOE5/waDvCRJSig=="
         }
       },
       "is_incremental": false,
@@ -2433,7 +2409,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.ENUM.html",
-          "hash": "W//RiAfEzJam1LWafcNyjg=="
+          "hash": "No49dyXMJhTa68Ln/+W6Fg=="
         }
       },
       "is_incremental": false,
@@ -2445,7 +2421,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.EdiBoMapper.html",
-          "hash": "ENQ2fakB5fV1xsg6vYi8Zw=="
+          "hash": "Dk+wfe9mQ3AeOowtD553HA=="
         }
       },
       "is_incremental": false,
@@ -2457,7 +2433,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.BusinessObjects.Benachrichtigung.BenachrichtigungExtension.html",
-          "hash": "Fxg0LViJJlNcKMBa0b97QA=="
+          "hash": "DdC/VdIyBSZiKMRJuDQ4SQ=="
         }
       },
       "is_incremental": false,
@@ -2469,7 +2445,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.BusinessObjects.Benachrichtigung.html",
-          "hash": "E3x7+sgqbWDg4so/t/xP/w=="
+          "hash": "9JAFlVA3r7J23RXPYRCSZQ=="
         }
       },
       "is_incremental": false,
@@ -2481,7 +2457,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.BusinessObjects.BusinessObjectExtensions.html",
-          "hash": "WPFp51yp9CJlncDm4ky2QQ=="
+          "hash": "Q5kErrAN9+rCijpVBijQ7A=="
         }
       },
       "is_incremental": false,
@@ -2493,7 +2469,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.BusinessObjects.Energiemenge.EnergiemengeExtension.BasicVerbrauchDateTimeComparer.html",
-          "hash": "vBHKj4g1m2htSzmwuO5Daw=="
+          "hash": "6i0qJtazjMNJuxIg4nLSUQ=="
         }
       },
       "is_incremental": false,
@@ -2505,7 +2481,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.BusinessObjects.Energiemenge.EnergiemengeExtension.html",
-          "hash": "7lxts1NHjM3NIsa6vbXlkw=="
+          "hash": "TZJ0ILbn4hBaZhBK7K7kNg=="
         }
       },
       "is_incremental": false,
@@ -2517,7 +2493,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.BusinessObjects.Energiemenge.html",
-          "hash": "kLTT4LOwn9bT/+z3l9P9pg=="
+          "hash": "hGZ+gqxoMNiOZwQTM6+S8Q=="
         }
       },
       "is_incremental": false,
@@ -2529,7 +2505,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.BusinessObjects.html",
-          "hash": "CHygCHqp0GLA3/vvqqHnxA=="
+          "hash": "VbKNVW5i3qUrpMNRSRuaHA=="
         }
       },
       "is_incremental": false,
@@ -2541,7 +2517,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.COM.COMExtensions.html",
-          "hash": "IQX7C2BME2Ws07FOH3T/Vw=="
+          "hash": "URecuvILQag+FvYgZKcV/Q=="
         }
       },
       "is_incremental": false,
@@ -2553,7 +2529,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.COM.PhysikalischerWertExtension.html",
-          "hash": "x16KyMSBUykhKcyE5WemqA=="
+          "hash": "A7V8hWDtwekku+goPW9TtA=="
         }
       },
       "is_incremental": false,
@@ -2565,7 +2541,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.COM.VerbrauchExtension.VerbrauchDateTimeComparer.html",
-          "hash": "HqvJtP6VhDpg1UYXMA07Mg=="
+          "hash": "oZhkij1OuhKHNzwxKtwNzw=="
         }
       },
       "is_incremental": false,
@@ -2577,7 +2553,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.COM.VerbrauchExtension.html",
-          "hash": "1LLqtA3XhWMffZPoqcGEOg=="
+          "hash": "dqn7ar6ar9HVgFufVaQbCQ=="
         }
       },
       "is_incremental": false,
@@ -2589,7 +2565,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.COM.ZeitraumExtension.html",
-          "hash": "kUlFacQqO3gLt0h6w3C94A=="
+          "hash": "fKDbTPg5h4Y0RpgmKyS2Eg=="
         }
       },
       "is_incremental": false,
@@ -2601,7 +2577,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.COM.html",
-          "hash": "rl77pEW6SBVFUyyg5cYyIg=="
+          "hash": "e+ddmq0qaFaU4RonL0azyg=="
         }
       },
       "is_incremental": false,
@@ -2613,7 +2589,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.ENUM.MengeneinheitExtenion.html",
-          "hash": "zO3Opk6F+IS6eQpKoLqrnA=="
+          "hash": "WaQX6akal1ZyXcYfqVorSg=="
         }
       },
       "is_incremental": false,
@@ -2625,7 +2601,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.ENUM.html",
-          "hash": "xUe7kNqANcdtLeK9WgEhDg=="
+          "hash": "FNsuczdbMs3Cikg1FGv1FA=="
         }
       },
       "is_incremental": false,
@@ -2637,7 +2613,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.Encryption.Anonymizer.html",
-          "hash": "oGDyyD9EphbBzM+q1F1PMQ=="
+          "hash": "Tz+BoqrzIf8LaHhmQ3zpEA=="
         }
       },
       "is_incremental": false,
@@ -2649,7 +2625,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.Encryption.AnonymizerApproach.html",
-          "hash": "4j1We/7X0PVPeFw/oUsOgw=="
+          "hash": "DwgOCUzt5rTC0/06AJRUGQ=="
         }
       },
       "is_incremental": false,
@@ -2661,7 +2637,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.Encryption.AnonymizerConfiguration.html",
-          "hash": "zgqOyjeE9MPblJMsuobJWQ=="
+          "hash": "s+dru1F9CNPR5TORq34KtQ=="
         }
       },
       "is_incremental": false,
@@ -2673,7 +2649,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.Encryption.AsymmetricEncrypter.html",
-          "hash": "rssk9Q5Ysljl/e3kUF3New=="
+          "hash": "uo7Amv6vy3prKYY5WcX8Hg=="
         }
       },
       "is_incremental": false,
@@ -2685,7 +2661,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.Encryption.Encrypter.html",
-          "hash": "2sa/bgvjJlhopIulxYNVEA=="
+          "hash": "Xb64NvDNLGmEJIMmLD3vlw=="
         }
       },
       "is_incremental": false,
@@ -2697,7 +2673,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.Encryption.SymmetricEncrypter.html",
-          "hash": "7zqoCPkvPTiiq2aWTQ2RZQ=="
+          "hash": "YYqDr/w+L5/AU7XUE3V09g=="
         }
       },
       "is_incremental": false,
@@ -2709,7 +2685,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.Encryption.X509AsymmetricEncrypter.html",
-          "hash": "OIwu64LhwGD6Hj2CgVuGBw=="
+          "hash": "H9NGMV//cevLorJBOenO1w=="
         }
       },
       "is_incremental": false,
@@ -2721,19 +2697,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Extensions.Encryption.html",
-          "hash": "iaFphznYN+gElrcZf/E+Qw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BO4E.LenientParsing.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BO4E.LenientParsing.html",
-          "hash": "h9hsZxns8inL+BZfhSuoyw=="
+          "hash": "vxMI5cd/errPrB0TxHWh+w=="
         }
       },
       "is_incremental": false,
@@ -2745,7 +2709,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Reporting.CompletenessReport.BasicVerbrauch.html",
-          "hash": "DljqCnhjHRkTefV6IltweQ=="
+          "hash": "u5YbGaagMXXZD1Dscn7Tcw=="
         }
       },
       "is_incremental": false,
@@ -2757,7 +2721,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Reporting.CompletenessReport.CompletenessReportConfiguration.html",
-          "hash": "2IpKI7oVx5g+8sVXYOwttw=="
+          "hash": "1vQ3Zbr0KsZa9F7aSqZF0Q=="
         }
       },
       "is_incremental": false,
@@ -2769,7 +2733,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Reporting.CompletenessReport.html",
-          "hash": "MMPtT75OOLpym2vXXu+FVQ=="
+          "hash": "h67GZlLIZyU+5LzQgMOqJw=="
         }
       },
       "is_incremental": false,
@@ -2781,7 +2745,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Reporting.PlausibilityReport.PlausibilityReportConfiguration.html",
-          "hash": "xLWAxfbDe1nnMrPaGmEVgw=="
+          "hash": "I8Jgf00M9SDJwYvTc4X9hA=="
         }
       },
       "is_incremental": false,
@@ -2793,7 +2757,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Reporting.PlausibilityReport.html",
-          "hash": "Zw+/F4YfwND6dh18zYpfuw=="
+          "hash": "hB8J+EvOOjSh2zMKRcg+uQ=="
         }
       },
       "is_incremental": false,
@@ -2805,7 +2769,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Reporting.Report.html",
-          "hash": "K7jZxZ/eB4DOFn1Y2US9AA=="
+          "hash": "TRBsDg2qAufcJPtu28F1Gg=="
         }
       },
       "is_incremental": false,
@@ -2817,7 +2781,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.Reporting.html",
-          "hash": "3H+pQ++bbZLcwc+ZGILpjw=="
+          "hash": "LL7mWnXmWnO3OhuQnqQ44A=="
         }
       },
       "is_incremental": false,
@@ -2829,7 +2793,19 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.StaticLogger.html",
-          "hash": "nTqfEZdD/Y6910rwKEkHKg=="
+          "hash": "QI1SXZOX+yBAOqg0au1ldQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BO4E.UserPropertiesDataContractResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BO4E.UserPropertiesDataContractResolver.html",
+          "hash": "Xoexl4tOq+7gp4Z1wujPxQ=="
         }
       },
       "is_incremental": false,
@@ -2841,7 +2817,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.Bo4eUri.html",
-          "hash": "HzE8aoCjQiigjD6oCxC2Iw=="
+          "hash": "U0lkhThnDKMQdq9elESfBg=="
         }
       },
       "is_incremental": false,
@@ -2853,7 +2829,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.BoKey.html",
-          "hash": "esU75ydq68BRr8ksuyUyfw=="
+          "hash": "Qze9WImUQWF6KnAjbslzCg=="
         }
       },
       "is_incremental": false,
@@ -2865,7 +2841,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.DataCategory.html",
-          "hash": "mlS6XfeX+eFa5Ry54CGRRg=="
+          "hash": "J2Z0OJSvOitE/7oFHnOR7w=="
         }
       },
       "is_incremental": false,
@@ -2877,7 +2853,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.DataCategoryAttribute.html",
-          "hash": "QgiT4NEqK+9OEwN1zU1UIw=="
+          "hash": "Ltd2A8mksCCPAAG/121nZw=="
         }
       },
       "is_incremental": false,
@@ -2889,7 +2865,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.FieldName.html",
-          "hash": "SnzsIweFj1qvEeDPIXw3jg=="
+          "hash": "zdR752sTYQGC6O/LknZ79g=="
         }
       },
       "is_incremental": false,
@@ -2901,7 +2877,91 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.Language.html",
-          "hash": "FYHg3TMzxZuNjL8CPjUpZg=="
+          "hash": "XYcb3y/35cT9l4EPJ9WyDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BO4E.meta.LenientConverters.LenientBo4eUriConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BO4E.meta.LenientConverters.LenientBo4eUriConverter.html",
+          "hash": "tn4F3n9lkJXV4Fqapg6jXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BO4E.meta.LenientConverters.LenientDateTimeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BO4E.meta.LenientConverters.LenientDateTimeConverter.html",
+          "hash": "ZK6XRjMDjfEAyLnx42NDaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BO4E.meta.LenientConverters.LenientEnumListConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BO4E.meta.LenientConverters.LenientEnumListConverter.html",
+          "hash": "Z3rbuvXemklyck/lHw9kSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BO4E.meta.LenientConverters.LenientParsing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BO4E.meta.LenientConverters.LenientParsing.html",
+          "hash": "JgqqeZLwdbPpmk5/bHiQ3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BO4E.meta.LenientConverters.LenientParsingExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BO4E.meta.LenientConverters.LenientParsingExtensions.html",
+          "hash": "ByQY2invs/h+V2whG/RrzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BO4E.meta.LenientConverters.LenientStringToIntConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BO4E.meta.LenientConverters.LenientStringToIntConverter.html",
+          "hash": "qUQD5zhpzOA8/K6tGvsuDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BO4E.meta.LenientConverters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BO4E.meta.LenientConverters.html",
+          "hash": "fkZviLEjlVwPou9JCDoObg=="
         }
       },
       "is_incremental": false,
@@ -2913,7 +2973,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.MultiLangResolver.html",
-          "hash": "2YUW6fXl5yxeNfSphVHxdg=="
+          "hash": "69QbNz6kF4Bnrd9e1Zz0Tg=="
         }
       },
       "is_incremental": false,
@@ -2925,7 +2985,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.NonOfficialAttribute.html",
-          "hash": "xAJWi0P4YCTPIsrc3ewlKg=="
+          "hash": "DmhWj02EC2T0tpGzjFZH6Q=="
         }
       },
       "is_incremental": false,
@@ -2937,7 +2997,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.NonOfficialCategory.html",
-          "hash": "cdayvSGLmm5qLpAeRMmWbA=="
+          "hash": "bDdI5jooWfDnJ2NMmPrFCg=="
         }
       },
       "is_incremental": false,
@@ -2949,7 +3009,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.StringUriConverter.html",
-          "hash": "8RP6I17WLKCTegtSNtLCMw=="
+          "hash": "iE4cOLo0FWEkLdVNlnJiAA=="
         }
       },
       "is_incremental": false,
@@ -2961,7 +3021,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.meta.html",
-          "hash": "yN98X1wt6bw09XeHGBvt9Q=="
+          "hash": "cVvT3tbCEoN5Iie45QgoFA=="
         }
       },
       "is_incremental": false,
@@ -2973,7 +3033,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BO4E.html",
-          "hash": "Y6/FbzPOkqUkoHndADhxdQ=="
+          "hash": "hLMVV6DEwLIvdoP28voD2g=="
         }
       },
       "is_incremental": false,
@@ -2985,7 +3045,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.CreateTimeZoneJson.html",
-          "hash": "X2B1gf25pQbf/A7UmE/z2g=="
+          "hash": "AHblRuxUFNnvlhrHjrXAmA=="
         }
       },
       "is_incremental": false,
@@ -2997,7 +3057,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.Reporting.TestCompletenessReportSorting.html",
-          "hash": "P3Ka0miBt0Xttk4ue87Cyw=="
+          "hash": "TtioiyWo0NMZb8mhRBPA/w=="
         }
       },
       "is_incremental": false,
@@ -3009,7 +3069,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.Reporting.TestReportToCsv.html",
-          "hash": "xWZDBvb/T0Bp24J7EyhtXQ=="
+          "hash": "1LU+WQwYurWQsyX8Nn2Zqw=="
         }
       },
       "is_incremental": false,
@@ -3021,7 +3081,79 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.Reporting.html",
-          "hash": "Lir+Xj4twCNWAMfTKFEBOw=="
+          "hash": "yZnKk1gl/d4RY2fuN3I34w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TestBO4E.ShowCaseTests.AnonymizerShowCaseTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TestBO4E.ShowCaseTests.AnonymizerShowCaseTests.html",
+          "hash": "nm50qfjihBKTCvay5u+3Bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TestBO4E.ShowCaseTests.CompletenessReportShowCaseTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TestBO4E.ShowCaseTests.CompletenessReportShowCaseTests.html",
+          "hash": "HtUF2mBrojIbCYT154JFMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TestBO4E.ShowCaseTests.EncryptionShowCaseTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TestBO4E.ShowCaseTests.EncryptionShowCaseTests.html",
+          "hash": "lShkQn1XtUIe+vbCrMD5Bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TestBO4E.ShowCaseTests.EnergiemengeShowCaseTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TestBO4E.ShowCaseTests.EnergiemengeShowCaseTests.html",
+          "hash": "GATYjp2vYiil9HAey/nhfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TestBO4E.ShowCaseTests.VerbrauchShowCaseTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TestBO4E.ShowCaseTests.VerbrauchShowCaseTests.html",
+          "hash": "HDXh1AiodmO4ubGq/M081g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TestBO4E.ShowCaseTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TestBO4E.ShowCaseTests.html",
+          "hash": "i8kYrLGKxwhLgQq1QSpLxw=="
         }
       },
       "is_incremental": false,
@@ -3033,7 +3165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestAbstractDeserialization.html",
-          "hash": "cCCxe6qHq14jWDzGrxPHDw=="
+          "hash": "1wt2NOlhb23x8qmTa4502Q=="
         }
       },
       "is_incremental": false,
@@ -3045,7 +3177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestBOCOMDesign.html",
-          "hash": "toMSsrcmCAiABTTDXFNFxA=="
+          "hash": "IUWfqdUGvNaBYHsK+FSiAA=="
         }
       },
       "is_incremental": false,
@@ -3057,7 +3189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestBOCOMGuids.html",
-          "hash": "XwHMAfpt9fe5ddjK5QBE3w=="
+          "hash": "Byyy96miC9YlwyyT8Zj/Vg=="
         }
       },
       "is_incremental": false,
@@ -3069,7 +3201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestBo4eURI.html",
-          "hash": "89jX78WfrkcEhLQo2RvFPA=="
+          "hash": "nzWddao1A0yE/BBA7Nfklg=="
         }
       },
       "is_incremental": false,
@@ -3081,7 +3213,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestBoEdiMapper.html",
-          "hash": "vmar2GPXE0ajikmqo1yQaA=="
+          "hash": "/SbBFq8HTUfMMmz9osEyuQ=="
         }
       },
       "is_incremental": false,
@@ -3093,7 +3225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestBoExpansion.html",
-          "hash": "w981JRztsGa4r3jeb+QYFA=="
+          "hash": "7dy0X921cchAieNF3U0WTg=="
         }
       },
       "is_incremental": false,
@@ -3105,7 +3237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestBoMapper.html",
-          "hash": "Nvn7MGD1kZXRmkX1s1pdlg=="
+          "hash": "LD157aU6qOd5rnTV9d00ZA=="
         }
       },
       "is_incremental": false,
@@ -3117,7 +3249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestCOMValidity.html",
-          "hash": "CZmfOzc0NxlSQnnnffzydw=="
+          "hash": "k1WFf3ggxHwsgBYjJ6kswg=="
         }
       },
       "is_incremental": false,
@@ -3129,7 +3261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestEdiBOMapper.html",
-          "hash": "bWlWeg6uVn6uRvMrMCaq+g=="
+          "hash": "6Pz+gm8b2qlae3LRfCU3vg=="
         }
       },
       "is_incremental": false,
@@ -3141,7 +3273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestEnergiemengeAdding.html",
-          "hash": "Lq2Ep5/hQd+phE1qqXfrbg=="
+          "hash": "rW+g3bGsD0XHaN4wMdaaYQ=="
         }
       },
       "is_incremental": false,
@@ -3153,7 +3285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestEqualities.html",
-          "hash": "bt14zWdfEBtg5XY8GplwOw=="
+          "hash": "DwUzdDTc1vM8ohMzcfGRJg=="
         }
       },
       "is_incremental": false,
@@ -3161,11 +3293,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/TestBO4E.TestJsonSchemeGeneration.yml",
+      "source_relative_path": "api/TestBO4E.TestJsonSchemaGeneration.yml",
       "output": {
         ".html": {
-          "relative_path": "api/TestBO4E.TestJsonSchemeGeneration.html",
-          "hash": "uHgfKUHOWmuGmYLPodVX7w=="
+          "relative_path": "api/TestBO4E.TestJsonSchemaGeneration.html",
+          "hash": "ol9mqlIcTicT3uMSrtXu/Q=="
         }
       },
       "is_incremental": false,
@@ -3177,7 +3309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestMaLoMeLoId.html",
-          "hash": "dKLw8JrrEDyX3uWfSguZ8w=="
+          "hash": "NdM+haM+wtkMfgSSpXdm9g=="
         }
       },
       "is_incremental": false,
@@ -3189,7 +3321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestMultiLangJson.MultiLangBo.html",
-          "hash": "eC14k8+qS+iyYwPAv5Wzxg=="
+          "hash": "ERSLtl2gUZb4kcPvDAU9sA=="
         }
       },
       "is_incremental": false,
@@ -3201,7 +3333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestMultiLangJson.NestedObject.html",
-          "hash": "8BG1P67lEKFtn4bfEtnWEw=="
+          "hash": "95FFJ6ke0mNRWfWroN6b4g=="
         }
       },
       "is_incremental": false,
@@ -3213,7 +3345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestMultiLangJson.html",
-          "hash": "KT9AGklbO0UdYXfLbL83pA=="
+          "hash": "TLaqEcfjLY0A479hdf7PaA=="
         }
       },
       "is_incremental": false,
@@ -3225,7 +3357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestNotizDeserialization.html",
-          "hash": "MMUvdzC/RGK7adCyh9oV5Q=="
+          "hash": "utJ5LkRPXaC6n+7Z6/NmMg=="
         }
       },
       "is_incremental": false,
@@ -3237,7 +3369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestProtoFileGeneration.html",
-          "hash": "rvTKFHBY2KejTVdghPNLcw=="
+          "hash": "e6XvGgCPxgL48vXwCMhNsA=="
         }
       },
       "is_incremental": false,
@@ -3249,7 +3381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestProtobufAttributes.html",
-          "hash": "xkaEGhlh1bp9sXCR2IpAXw=="
+          "hash": "K/cXyLZolcR8pX1brNHSBA=="
         }
       },
       "is_incremental": false,
@@ -3261,7 +3393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestProtobufSerialization.html",
-          "hash": "972h9VjHh9rur6/rlUlMuA=="
+          "hash": "UletgeisCkZmKNnee5s9Qw=="
         }
       },
       "is_incremental": false,
@@ -3273,7 +3405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestStringEnumConverter.html",
-          "hash": "Vh5sMuIxo0xu+KJq4iwxLA=="
+          "hash": "ahcjjHej3I4r1wKovWebqw=="
         }
       },
       "is_incremental": false,
@@ -3285,7 +3417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.TestUserProperties.html",
-          "hash": "ljFVn9J5MmJtxb4TPcky+g=="
+          "hash": "lkBWQk2L+yT27uUtQHFpQw=="
         }
       },
       "is_incremental": false,
@@ -3297,7 +3429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4E.html",
-          "hash": "E11s+Ffol+b8iz6YwkmGDA=="
+          "hash": "ip2fc6XwLQcn3o9gPIWYPA=="
         }
       },
       "is_incremental": false,
@@ -3309,7 +3441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.Encryption.TestAnonymizer.html",
-          "hash": "r/BAWKo7vNeAI/gg7ORblg=="
+          "hash": "3zCtgdhcfopKW7jXzys45A=="
         }
       },
       "is_incremental": false,
@@ -3321,7 +3453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.Encryption.TestAnonymizerConfiguration.html",
-          "hash": "1yCS39VmzywSC+2KZYACDg=="
+          "hash": "sVX8Y8cJGk0JNpsPAzaPJw=="
         }
       },
       "is_incremental": false,
@@ -3333,7 +3465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.Encryption.TestEncrypter.html",
-          "hash": "sdlTC8vqL5TQNXKjiD4Xbw=="
+          "hash": "8zgiqas0HLqVTvv4tofTVw=="
         }
       },
       "is_incremental": false,
@@ -3345,7 +3477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.Encryption.html",
-          "hash": "JkeOhNzmC6zzq5I6318MSQ=="
+          "hash": "ErRMUVW3wyznyiuA8agr6Q=="
         }
       },
       "is_incremental": false,
@@ -3357,7 +3489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.TestBenachrichtigungExtension.html",
-          "hash": "x6R4dGg50EQGkrLRv9VjhA=="
+          "hash": "KFZHi0fW1NtYZdC4B7T+Fw=="
         }
       },
       "is_incremental": false,
@@ -3369,7 +3501,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.TestCloningExtension.html",
-          "hash": "eyiEFzpnYyvjHQ9jXaeMAA=="
+          "hash": "qnGGAe2eWLsJJVEEZzzsSQ=="
         }
       },
       "is_incremental": false,
@@ -3381,7 +3513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.TestEnergiemengeExtension.html",
-          "hash": "V/SB6eQTT414nOLyBWWObQ=="
+          "hash": "l9au0F7PvoxnyG7JXZkg2A=="
         }
       },
       "is_incremental": false,
@@ -3393,7 +3525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.TestEnergiemengeExtensionCompleteness.html",
-          "hash": "lclAtOlSHf2nuABucx4Dqw=="
+          "hash": "UNk0y7CLVKHxcyc86u+eYA=="
         }
       },
       "is_incremental": false,
@@ -3405,7 +3537,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.TestEnergiemengeExtensionPlausibility.html",
-          "hash": "jnid1vOll1z/uXfg5SmeKw=="
+          "hash": "RszWZs5jWNzHWKfXS65D4A=="
         }
       },
       "is_incremental": false,
@@ -3417,7 +3549,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.TestMengeneinheitExtension.html",
-          "hash": "VvLtuP0jM8xWPdeZax7rLA=="
+          "hash": "CaENWblqrvF64rudrlKg5w=="
         }
       },
       "is_incremental": false,
@@ -3429,7 +3561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.TestVerbrauchExtension.html",
-          "hash": "KeI1+ol0GYrCLRRCT6PtJw=="
+          "hash": "9TTNroUMRtSJdQuE/etsgg=="
         }
       },
       "is_incremental": false,
@@ -3441,7 +3573,7 @@
       "output": {
         ".html": {
           "relative_path": "api/TestBO4EExtensions.html",
-          "hash": "SjKWJG6FsRi729DVDsnQ2g=="
+          "hash": "UugqIxX7i1eu+S6g2ofc1g=="
         }
       },
       "is_incremental": false,
@@ -3453,7 +3585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "rihG/CtZK3vscRnSofWXig=="
+          "hash": "Gnucnv8AiRHJWiLmgWN9ng=="
         }
       },
       "is_incremental": false,
@@ -3471,17 +3603,17 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 287,
-          "skipped_file_count": 0
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 298,
           "skipped_file_count": 0
         }
       }
